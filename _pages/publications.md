@@ -80,8 +80,8 @@ University of Michigan Tech Report CSE-TR-001-18 ([PDF](https://spqrlab1.github.
 
 [**DolphinAttack: Inaudible Voice Commands**](https://dl.acm.org/doi/10.1145/3133956.3134052)   
 Guoming Zhang, Chen Yan (co-first author), Xiaoyu Ji, Tianchen Zhang, Taimin Zhang, and Wenyuan Xu.  
-In ***CCS'17**: ACM Conference on Computer and Communications Security, 2017* ([PDF](https://cyan27.github.io/files/articles/17CCS-DolphinnAttack.pdf), [Webpage](https://github.com/USSLab/DolphinAttack))   
-> **Best Paper Award**
+In *__CCS'17__: ACM Conference on Computer and Communications Security, 2017* ([PDF](https://cyan27.github.io/files/articles/17CCS-DolphinnAttack.pdf), [Webpage](https://github.com/USSLab/DolphinAttack))   
+![award](/images/award.png)**Best Paper Award**
 
 [**Cybersecurity and Medical Devices: A Practical Guide for Cardiac Electrophysiologists**](https://onlinelibrary.wiley.com/doi/10.1111/pace.13102)  
 Benjamin Ransford, Daniel B. Kramer, Denis Foo Kune, Julio Auto de Medeiros, Chen Yan, Wenyuan Xu, Thomas Crawford, and Kevin Fu.   
