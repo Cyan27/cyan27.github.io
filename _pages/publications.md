@@ -62,7 +62,7 @@ In ***TDSC'19**: IEEE Transactions on Dependable and Secure Computing, 2019* ([P
 Xinyan Zhou, Xiaoyu Ji, Chen Yan, Jiangyi Deng, Wenyuan Xu.  
 In ***INFOCOM'19**: IEEE Conference on Computer Communications, 2019* ([PDF](https://cyan27.github.io/files/articles/19INFOCOM-NAuth.pdf))   
 
-[**On Cuba, Diplomats, Ultrasound, and Intermodulation Distortion**](https://www.sciencedirect.com/science/article/pii/S0010482518303743)
+[**On Cuba, Diplomats, Ultrasound, and Intermodulation Distortion**](https://www.sciencedirect.com/science/article/pii/S0010482518303743)  
 Chen Yan, Kevin Fu, Wenyuan Xu.   
 In ***CBM'19**: Computers in Biology and Medicine 104, 2019* ([PDF](https://cyan27.github.io/files/articles/19CBM-Cuba.pdf))
 
@@ -72,7 +72,7 @@ In ***CBM'19**: Computers in Biology and Medicine 104, 2019* ([PDF](https://cyan
 Wenyuan Xu, Chen Yan, Weibin Jia, Xiaoyu Ji, Jiaohao Liu.  
 In ***IoTJ'18**: IEEE Internet of Things Journal, 5:6, 5015-5029, 2018* ([PDF](https://cyan27.github.io/files/articles/18IoTJ-Ultrasonic.pdf))   
 
-**On Cuba, Diplomats, Ultrasound, and Intermodulation Distortion**  
+[**On Cuba, Diplomats, Ultrasound, and Intermodulation Distortion**]()    
 Chen Yan, Kevin Fu, Wenyuan Xu.     
 University of Michigan Tech Report CSE-TR-001-18 ([PDF](https://spqrlab1.github.io/papers/YanFuXu-Cuba-CSE-TR-001-18.pdf))
 
@@ -80,7 +80,7 @@ University of Michigan Tech Report CSE-TR-001-18 ([PDF](https://spqrlab1.github.
 
 [**DolphinAttack: Inaudible Voice Commands**](https://dl.acm.org/doi/10.1145/3133956.3134052)   
 Guoming Zhang, Chen Yan (co-first author), Xiaoyu Ji, Tianchen Zhang, Taimin Zhang, and Wenyuan Xu.  
-In ***CCS'17**: ACM Conference on Computer and Communications Security, 2017* ([PDF](https://cyan27.github.io/files/articles/17CCS-DolphinnAttack.pdf), [Webpage](https://github.com/USSLab/DolphinAttack) **Best Paper Award**)  
+In ***CCS'17**:* *ACM Conference on Computer and Communications Security, 2017* ([PDF](https://cyan27.github.io/files/articles/17CCS-DolphinnAttack.pdf), [Webpage](https://github.com/USSLab/DolphinAttack) **Best Paper Award**)  
 
 [**Cybersecurity and Medical Devices: A Practical Guide for Cardiac Electrophysiologists**](https://onlinelibrary.wiley.com/doi/10.1111/pace.13102)  
 Benjamin Ransford, Daniel B. Kramer, Denis Foo Kune, Julio Auto de Medeiros, Chen Yan, Wenyuan Xu, Thomas Crawford, and Kevin Fu.   
@@ -92,7 +92,7 @@ In ***CMD'17**: 中国医疗设备, 32:7, 167-168, 2017* ([PDF](https://cyan27.g
 
 ## 2016
 
-[**Can You Trust Autonomous Vehicles: Contactless Attacks against Sensors of Self-driving Vehicles**](https://defcon.org/html/defcon-24/dc-24-index.html)
+[**Can You Trust Autonomous Vehicles: Contactless Attacks against Sensors of Self-driving Vehicles**](https://defcon.org/html/defcon-24/dc-24-index.html)  
 Chen Yan, Wenyuan Xu, and Jianhao Liu.   
 In ***DEF CON 24**, 2016* ([Whitepaper](https://cyan27.github.io/files/articles/16DEFCON-Sensor.pdf), [Slides](https://cyan27.github.io/files/slides/Slides-DEFCON16.pdf), [Talk Video](https://www.youtube.com/watch?v=orWqKWvIW_0))  
 
