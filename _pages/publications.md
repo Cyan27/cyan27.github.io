@@ -96,7 +96,7 @@ In ***CMD'17**: 中国医疗设备, 32:7, 167-168, 2017* ([PDF](https://cyan27.g
 
 [**Can You Trust Autonomous Vehicles: Contactless Attacks against Sensors of Self-driving Vehicles**](https://defcon.org/html/defcon-24/dc-24-index.html)  
 Chen Yan, Wenyuan Xu, and Jianhao Liu.   
-In ***DEF CON 24**, 2016* ([Whitepaper](https://cyan27.github.io/files/articles/16DEFCON-Sensor.pdf), [Slides](https://cyan27.github.io/files/slides/Slides-DEFCON16.pdf), [Talk Video](https://www.youtube.com/watch?v=orWqKWvIW_0))  
+In *__DEF CON 24__, 2016* ([Whitepaper](https://cyan27.github.io/files/articles/16DEFCON-Sensor.pdf), [Slides](https://cyan27.github.io/files/slides/Slides-DEFCON16.pdf), [Talk Video](https://www.youtube.com/watch?v=orWqKWvIW_0))  
 <img src="/images/award1.png" width="25"> **Tesla Security Researcher Hall of Fame**
 
 [**汽车智能化的安全思考**](https://d.wanfangdata.com.cn/periodical/zgjsjxhtx201601005)   
