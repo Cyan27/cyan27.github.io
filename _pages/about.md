@@ -26,7 +26,7 @@ I have analyzed/enhanced the security of various real-world systems including se
 etc.
 
 
-Please also refer to my [homepage@ZJU](https://person.zju.edu.cn/cyan) for Chinese information.
+Please also refer to my [homepage@ZJU](https://person.zju.edu.cn/cyan)（中文主页） for information in Chinese.
 
 
 <!-- For more info

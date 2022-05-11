@@ -6,6 +6,7 @@ permalink: /talks/2021-11-tutorial-usslab
 venue: "USSLAB Group Meeting"
 date: 2021-11-12
 location: "Hangzhou, China"
+excerpt: "Tutorial on research and paper writing"
 ---
 
 [Link to slides](https://cyan27.github.io/files/Slides-Research-Tutorials-1112.pdf)
