@@ -9,7 +9,7 @@ location: "Hangzhou, China"
 excerpt: "Tutorial on research and paper writing"
 ---
 
-[Link to slides](https://cyan27.github.io/files/slides/Slides-Research-Tutorials-1112.pdf)
+[Link to slides](https://cyan27.github.io/files/slides/21LAB-tutorial-slides.pdf)
 
 <!-- [More information here](http://exampleurl.com) -->
 
