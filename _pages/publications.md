@@ -52,7 +52,7 @@ In ***Oakland'20**: IEEE Symposium on Security and Privacy, 2020* ([PDF](https:/
 
 [**The Catcher in the Field: A Fieldprint based Spoofing Detection for Text-Independent Speaker Verification**](https://dl.acm.org/doi/10.1145/3319535.3354248)  
 Chen Yan, Yan Long, Xiaoyu Ji, Wenyuan Xu.   
-In ***CCS'19**: ACM Conference on Computer and Communications Security, 2019* ([PDF](https://cyan27.github.io/files/articles/19CCS-Cafield.pdf), [Slides](https://cyan27.github.io/files/articles/19CCS-Cafield-slides.pdf) [Webpage](https://github.com/USSLab/CaField))
+In ***CCS'19**: ACM Conference on Computer and Communications Security, 2019* ([PDF](https://cyan27.github.io/files/articles/19CCS-Cafield.pdf), [Slides](https://cyan27.github.io/files/articles/19CCS-Cafield-slides.pdf), [Webpage](https://github.com/USSLab/CaField))
 
 [**The Feasibility of Injecting Inaudible Voice Commands to Voice Assistants**](https://ieeexplore.ieee.org/document/8669818)  
 Chen Yan, Guoming Zhang, Xiaoyu Ji, Tianchen Zhang, Taimin Zhang, Wenyuan Xu.   
