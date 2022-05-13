@@ -14,21 +14,18 @@ My curriculum vitae is available in [English](/files/CV/CV_ChenYan_2022_0512.pdf
 ## Awards and Honors
 
 - **Academic**
-  - **Doctoral Dissertation Award**&emsp;&emsp;*ACM China, 2021*
-  - **Best Paper Award**&emsp;&emsp;*ACM CCS, 2017*
-  - **Scholarship for Outstanding Doctoral Candidates**&emsp;&emsp;*Zhejiang University, 2019*
+  - **Doctoral Dissertation Award**&emsp;*ACM China, 2021*
+  - **Best Paper Award**&emsp;*ACM CCS, 2017*
+  - **Scholarship for Outstanding Doctoral Candidates**&emsp;*Zhejiang University, 2019*
   - **Student Travel Award**&emsp;&emsp;*ACM CCS 2019, CHES 2016, AsiaCCS 2016*
 
 - **Industrial**
-  - **Information Security Recognition**&emsp;&emsp;*Tesla Motors, 2016*
-  - **1st Prize winner**&emsp;&emsp;*Syscan360 Winter HackPwn Car Hacking Contest, 2016*
-  - **1st Prize winner**&emsp;&emsp;*HackPwn, 2015*
-
-
+  - **Information Security Recognition**&emsp;*Tesla Motors, 2016*
+  - **1st Prize Winner**&emsp;*Syscan360 Car Hacking Contest 2016, HackPwn 2015*
 
 ## Professional Activities
 
-- **Technical Program Committee (TPC)**
+- **Technical Program Committee**
   - ACM CCS 2021
 
 - **Reviewer**
