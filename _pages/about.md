@@ -12,7 +12,7 @@ Hi! I'm Chen Yan (闫琛), a security researcher and an Assistant Researcher at 
 My research focuses on **securing cyber systems in the physical world**, with a particular interest in sensing security.
 I'm also interested in biometrics, device fingerprinting, side channel, covert channel, machine learning security, embedded system security, acoustics, and anything in security research that involves signals and physics. 
 
-Before joining Zhejiang University as a faculty in 2021, I received my Ph.D. in Control Theory and Engineering and B.Eng. in Electrical and Electronics Engineering from Zhejiang University. In 2016, I was a visiting scholar in the [SPQR Group](https://spqrlab1.github.io/index.html) led by Prof. Kevin Fu at the University of Michigan.
+Before joining Zhejiang University as a faculty in 2021, I received my Ph.D. in Control Theory and Engineering and B.Eng. in Electrical and Electronics Engineering from Zhejiang University. In 2016, I was a visiting scholar in the [Security and Privacy Research (SPQR) Group](https://spqrlab1.github.io/index.html) led by Prof. Kevin Fu at the University of Michigan.
 
 I'm a hacker and an experimentalist aiming to solve real-world security problems.
 I have analyzed/enhanced the security of various real-world systems including sensors, smartphones, autonomous vehicles, IoT devices, medical devices, voice assistants, etc. I have been acknowledged by [Tesla Motors](https://www.tesla.com/product-security), Apple, Google, Amazon, Samsung, and [Huawei](https://www.huawei.com/cn/psirt/security-notices/2017/huawei-sn-20170907-01-dolphinattack-cn) for the vulnerabilities I found. Some of my work was reported by 
