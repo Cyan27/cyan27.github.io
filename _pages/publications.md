@@ -46,13 +46,13 @@ In ***TMC'20**: IEEE Transactions on Mobile Computing, 2020* ([PDF](/files/artic
 
 [**SoK: A Minimalist Approach to Formalizing Analog Sensor Security**](https://ieeexplore.ieee.org/document/9152711)   
 Chen Yan, Hocheol Shin, Connor Bolton, Wenyuan Xu, Yongdae Kim, Kevin Fu.   
-In ***Oakland'20**: IEEE Symposium on Security and Privacy, 2020* ([PDF](/files/articles/20Oakland-SoK.pdf), [Slides](/files/articles/20Oakland-SoK-slides.pdf), [Talk Video](https://www.youtube.com/watch?v=LSw4OfFQQuo), [Teaser Video](https://www.youtube.com/watch?v=eZh1Y3apkeg))
+In ***Oakland'20**: IEEE Symposium on Security and Privacy, 2020* ([PDF](/files/articles/20Oakland-SoK.pdf), [Slides](/files/slides/20Oakland-SoK-slides.pdf), [Talk Video](https://www.youtube.com/watch?v=LSw4OfFQQuo), [Teaser Video](https://www.youtube.com/watch?v=eZh1Y3apkeg))
 
 ## 2019
 
 [**The Catcher in the Field: A Fieldprint based Spoofing Detection for Text-Independent Speaker Verification**](https://dl.acm.org/doi/10.1145/3319535.3354248)  
 Chen Yan, Yan Long, Xiaoyu Ji, Wenyuan Xu.   
-In ***CCS'19**: ACM Conference on Computer and Communications Security, 2019* ([PDF](/files/articles/19CCS-Cafield.pdf), [Slides](/files/articles/19CCS-Cafield-slides.pdf), [Webpage](https://github.com/USSLab/CaField))
+In ***CCS'19**: ACM Conference on Computer and Communications Security, 2019* ([PDF](/files/articles/19CCS-Cafield.pdf), [Slides](/files/slides/19CCS-Cafield-slides.pdf), [Webpage](https://github.com/USSLab/CaField))
 
 [**The Feasibility of Injecting Inaudible Voice Commands to Voice Assistants**](https://ieeexplore.ieee.org/document/8669818)  
 Chen Yan, Guoming Zhang, Xiaoyu Ji, Tianchen Zhang, Taimin Zhang, Wenyuan Xu.   
@@ -81,7 +81,7 @@ University of Michigan Tech Report CSE-TR-001-18 ([PDF](https://spqrlab1.github.
 
 [**DolphinAttack: Inaudible Voice Commands**](https://dl.acm.org/doi/10.1145/3133956.3134052)   
 Guoming Zhang, Chen Yan (co-first author), Xiaoyu Ji, Tianchen Zhang, Taimin Zhang, and Wenyuan Xu.  
-In *__CCS'17__: ACM Conference on Computer and Communications Security, 2017* ([PDF](/files/articles/17CCS-DolphinAttack.pdf), [Slides](/files/articles/17CCS-DolphinAttack-slides.pdf), [Webpage](https://github.com/USSLab/DolphinAttack))   
+In *__CCS'17__: ACM Conference on Computer and Communications Security, 2017* ([PDF](/files/articles/17CCS-DolphinAttack.pdf), [Slides](/files/slides/17CCS-DolphinAttack-slides.pdf), [Webpage](https://github.com/USSLab/DolphinAttack))   
 <img src="/images/award1.png" width="25"> **Best Paper Award**
 
 [**Cybersecurity and Medical Devices: A Practical Guide for Cardiac Electrophysiologists**](https://onlinelibrary.wiley.com/doi/10.1111/pace.13102)  
@@ -96,7 +96,7 @@ In ***CMD'17**: 中国医疗设备, 32:7, 167-168, 2017* ([PDF](/files/articles/
 
 [**Can You Trust Autonomous Vehicles: Contactless Attacks against Sensors of Self-driving Vehicles**](https://defcon.org/html/defcon-24/dc-24-index.html)  
 Chen Yan, Wenyuan Xu, and Jianhao Liu.   
-In *__DEF CON 24__, 2016* ([Whitepaper](/files/articles/16DEFCON-sensor.pdf), [Slides](/files/slides/16DEFCON-sensor-slides.pdf), [Talk Video](https://www.youtube.com/watch?v=orWqKWvIW_0))  
+In *__DEF CON 24__, 2016* ([Whitepaper](/files/articles/16DEFCON-Sensor.pdf), [Slides](/files/slides/16DEFCON-sensor-slides.pdf), [Talk Video](https://www.youtube.com/watch?v=orWqKWvIW_0))  
 <img src="/images/award1.png" width="25"> **Tesla Security Researcher Hall of Fame**
 
 [**汽车智能化的安全思考**](https://d.wanfangdata.com.cn/periodical/zgjsjxhtx201601005)   

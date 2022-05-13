@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022.pdf) and [Chinese](/files/cv/CV_闫琛_2022.pdf).
+My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) and [Chinese](/files/cv/CV_ChenYan_2022_cn.pdf).
 
 ## Awards and Honors
 
