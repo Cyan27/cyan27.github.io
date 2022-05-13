@@ -26,7 +26,7 @@ I have analyzed/enhanced the security of various real-world systems including se
 etc.
 
 
-Please also refer to my [Curriculum Vitae](/files/CV/CV_ChenYan_2022_0512.pdf) and [homepage@ZJU (中文主页)](https://person.zju.edu.cn/cyan) for more information.
+Please also refer to my [homepage@ZJU (中文主页)](https://person.zju.edu.cn/cyan) for information in Chinese.
 
 
 <!-- For more info
