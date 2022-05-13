@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My curriculum vitae is available in [English](/files/CV/CV_ChenYan_2022_0512.pdf) and [Chinese]().
+My curriculum vitae is available in [English](/files/CV/CV_ChenYan_2022.pdf) and [Chinese](/files/CV/CV_闫琛_2022.pdf).
 
 ## Awards and Honors
 
@@ -17,7 +17,7 @@ My curriculum vitae is available in [English](/files/CV/CV_ChenYan_2022_0512.pdf
   - **Doctoral Dissertation Award**&emsp;*ACM China, 2021*
   - **Best Paper Award**&emsp;*ACM CCS, 2017*
   - **Scholarship for Outstanding Doctoral Candidates**&emsp;*Zhejiang University, 2019*
-  - **Student Travel Award**&emsp;&emsp;*ACM CCS 2019, CHES 2016, AsiaCCS 2016*
+  - **Student Travel Award**&emsp;*ACM CCS 2019, CHES 2016, AsiaCCS 2016*
 
 - **Industrial**
   - **Information Security Recognition**&emsp;*Tesla Motors, 2016*
