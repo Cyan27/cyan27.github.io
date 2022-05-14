@@ -16,15 +16,14 @@ Before joining Zhejiang University as a faculty in 2021, I received my Ph.D. in 
 
 I'm a hacker and an experimentalist aiming to solve real-world security problems.
 I have analyzed/enhanced the security of various real-world systems including sensors, smartphones, autonomous vehicles, IoT devices, medical devices, voice assistants, etc. I have been acknowledged by [Tesla Motors](https://www.tesla.com/product-security), Apple, Google, Amazon, Samsung, and [Huawei](https://www.huawei.com/cn/psirt/security-notices/2017/huawei-sn-20170907-01-dolphinattack-cn) for the vulnerabilities I found. Some of my work was reported by 
-[Wired](https://www.wired.com/2016/08/hackers-fool-tesla-ss-autopilot-hide-spoof-obstacles/) (2016),
-[Forbes](http://www.forbes.com/sites/thomasbrewster/2016/08/04/tesla-autopilot-hack-crash/#235519f6dc93) (2016),
+[IEEE Spectrum](https://spectrum.ieee.org/semiconductors/devices/finally-a-likely-explanation-for-the-sonic-weapon-used-at-the-us-embassy-in-cuba) (2018),
+[MIT Technology Review](https://www.technologyreview.com/s/608825/secret-ultrasonic-commands-can-control-your-smartphone-say-researchers/) (2017),
 [Wired](https://www.wired.com/story/security-roundup-germany-election-software-is-hackable) (2017),
 [BBC](http://www.bbc.com/news/technology-41188557) (2017),
-[MIT Technology Review](https://www.technologyreview.com/s/608825/secret-ultrasonic-commands-can-control-your-smartphone-say-researchers/) (2017),
 [Xinhua Net](http://www.xinhuanet.com/fortune/2017-10/31/c_1121881819.htm) (2017),
-[IEEE Spectrum](https://spectrum.ieee.org/semiconductors/devices/finally-a-likely-explanation-for-the-sonic-weapon-used-at-the-us-embassy-in-cuba) (2018),
+[Wired](https://www.wired.com/2016/08/hackers-fool-tesla-ss-autopilot-hide-spoof-obstacles/) (2016),
+[Forbes](http://www.forbes.com/sites/thomasbrewster/2016/08/04/tesla-autopilot-hack-crash/#235519f6dc93) (2016),
 etc.
-
 
 Please also refer to my [homepage@ZJU (中文主页)](https://person.zju.edu.cn/cyan) for information in Chinese.
 

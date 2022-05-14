@@ -4,8 +4,7 @@ title: "Contact"
 excerpt: "Contact me"
 author_profile: true
 ---
-Contact information is below, including email and mailing addresses.   
-You can use my [PGP public key](/files/pgp/ChenYan_F107B384_Public.asc) to encrypt you email. 
+Contact information is below, including email and mailing addresses. You can use my [PGP public key](/files/pgp/ChenYan_F107B384_Public.asc) to encrypt your email. 
 
 
 * Email: yanchen [at] zju dot edu dot cn
