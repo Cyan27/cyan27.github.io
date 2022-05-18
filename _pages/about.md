@@ -16,6 +16,7 @@ Before joining Zhejiang University as a faculty in 2021, I received my Ph.D. in 
 
 I'm a hacker and an experimentalist aiming to find and solve real-world security problems.
 I have analyzed/enhanced the security of various real-world systems including sensors, smartphones, autonomous vehicles, IoT devices, medical devices, voice assistants, etc. I have been acknowledged by [Tesla Motors](https://www.tesla.com/product-security), Apple, Google, Amazon, Samsung, and [Huawei](https://www.huawei.com/cn/psirt/security-notices/2017/huawei-sn-20170907-01-dolphinattack-cn) for the vulnerabilities I found. Some of my work was reported by 
+[NewScientist](https://www.newscientist.com/article/2315634-driverless-cars-can-be-tricked-into-seeing-red-traffic-lights-as-green/#ixzz7RM1Lo1V2) (2022),
 [IEEE Spectrum](https://spectrum.ieee.org/semiconductors/devices/finally-a-likely-explanation-for-the-sonic-weapon-used-at-the-us-embassy-in-cuba) (2018),
 [MIT Technology Review](https://www.technologyreview.com/s/608825/secret-ultrasonic-commands-can-control-your-smartphone-say-researchers/) (2017),
 [Wired](https://www.wired.com/story/security-roundup-germany-election-software-is-hackable) (2017),
