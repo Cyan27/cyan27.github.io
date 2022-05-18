@@ -14,7 +14,7 @@ I'm also interested in biometrics, device fingerprinting, side channel, covert c
 
 Before joining Zhejiang University as a faculty in 2021, I received my Ph.D. in Control Theory and Engineering and B.Eng. in Electrical and Electronics Engineering from Zhejiang University. In 2016, I was a visiting scholar in the [Security and Privacy Research (SPQR) Group](https://spqrlab1.github.io/index.html) led by Prof. Kevin Fu at the University of Michigan.
 
-I'm a hacker and an experimentalist aiming to solve real-world security problems.
+I'm a hacker and an experimentalist aiming to find and solve real-world security problems.
 I have analyzed/enhanced the security of various real-world systems including sensors, smartphones, autonomous vehicles, IoT devices, medical devices, voice assistants, etc. I have been acknowledged by [Tesla Motors](https://www.tesla.com/product-security), Apple, Google, Amazon, Samsung, and [Huawei](https://www.huawei.com/cn/psirt/security-notices/2017/huawei-sn-20170907-01-dolphinattack-cn) for the vulnerabilities I found. Some of my work was reported by 
 [IEEE Spectrum](https://spectrum.ieee.org/semiconductors/devices/finally-a-likely-explanation-for-the-sonic-weapon-used-at-the-us-embassy-in-cuba) (2018),
 [MIT Technology Review](https://www.technologyreview.com/s/608825/secret-ultrasonic-commands-can-control-your-smartphone-say-researchers/) (2017),
