@@ -27,6 +27,7 @@ My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) 
 
 - **Technical Program Committee**
   - ACM CCS 2021
+  - Shadow PC: ACM SenSys 2022
 
 - **Reviewer**
   - IEEE Transactions on Dependable and Secure Computing (TDSC)
