@@ -8,6 +8,20 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=qhaLpw8AAAAJ&hl=en&oi=sra).
 
 
+## 2023
+
+**GlitchHiker: Uncovering Vulnerabilities of Image Signal Transmission with IEMI**  
+Qinhong Jiang, Xiaoyu Ji, Chen Yan, Zhixin Xie, Haina Lou, and Wenyuan Xu.  
+In *__SEC'23__: USENIX Security Symposium, 2023* (To appear)  
+
+**PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle**  
+Zizhi Jin, Xiaoyu Ji, Yushi Cheng, Bo Yang, Chen Yan, and Wenyuan Xu.  
+In ***Oakland'23**: IEEE Symposium on Security and Privacy, 2023* (To appear)
+
+<!-- **DeHiREC: Detecting Hidden Voice Recorders via ADC Electromagnetic Radiation**  
+Ruochen Zhou, Xiaoyu Ji, Chen Yan, Chaohao Li, and Wenyuan Xu.  
+In ***Oakland'23**: IEEE Symposium on Security and Privacy, 2023* (To appear)   -->
+
 ## 2022
 
 [**WIGHT: Wired Ghost Touch Attack on Capacitive Touchscreens**](https://www.computer.org/csdl/proceedings-article/sp/2022/131600b537/1CIO7Ic5kR2)  
