@@ -10,15 +10,15 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## 2023
 
-**GlitchHiker: Uncovering Vulnerabilities of Image Signal Transmission with IEMI**  
+[**GlitchHiker: Uncovering Vulnerabilities of Image Signal Transmission with IEMI**]()  
 Qinhong Jiang, Xiaoyu Ji, Chen Yan, Zhixin Xie, Haina Lou, and Wenyuan Xu.  
 In *__SEC'23__: USENIX Security Symposium, 2023* (To appear)  
 
-**PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle**  
+[**PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle**]()  
 Zizhi Jin, Xiaoyu Ji, Yushi Cheng, Bo Yang, Chen Yan, and Wenyuan Xu.  
 In ***Oakland'23**: IEEE Symposium on Security and Privacy, 2023* (To appear)
 
-<!-- **DeHiREC: Detecting Hidden Voice Recorders via ADC Electromagnetic Radiation**  
+<!-- [**DeHiREC: Detecting Hidden Voice Recorders via ADC Electromagnetic Radiation**]()  
 Ruochen Zhou, Xiaoyu Ji, Chen Yan, Chaohao Li, and Wenyuan Xu.  
 In ***Oakland'23**: IEEE Symposium on Security and Privacy, 2023* (To appear)   -->
 
@@ -28,11 +28,11 @@ In ***Oakland'23**: IEEE Symposium on Security and Privacy, 2023* (To appear)   
 Yan Jiang, Xiaoyu Ji, Kai Wang, Chen Yan, Richard Mitev, Ahmad-Reza Sadeghi, and Wenyuan Xu.  
 In ***Oakland'22**: IEEE Symposium on Security and Privacy, 2022* ([PDF](/files/articles/22Oakland-WIGHT.pdf), [Teaser Video](https://www.youtube.com/watch?v=cH51yFJe4NE))
 
-[**Rolling Colors: Adversarial Laser Exploits against Traffic Light Recognition (to appear)**](https://www.usenix.org/conference/usenixsecurity22/presentation/yan)  
+[**Rolling Colors: Adversarial Laser Exploits against Traffic Light Recognition**](https://www.usenix.org/conference/usenixsecurity22/presentation/yan)  
 Chen Yan, Zhijian Xu, Zhanyuan Yin, Xiaoyu Ji, Wenyuan Xu.  
 In ***SEC'22**: USENIX Security Symposium, 2022* ([PDF](/files/articles/22SEC-RollingColors.pdf), [Demo](https://sites.google.com/view/rollingcolors))
 
-[**GhostTouch: Targeted Attacks on Touchscreens without Physical Touch (to appear)**](https://www.usenix.org/conference/usenixsecurity22/presentation/wang-kai)  
+[**GhostTouch: Targeted Attacks on Touchscreens without Physical Touch**](https://www.usenix.org/conference/usenixsecurity22/presentation/wang-kai)  
 Kai Wang, Chen Yan, Richard Mitev, Xiaoyu Ji, Ahmad-Reza Sadeghi, Wenyuan Xu.  
 In ***SEC'22**: USENIX Security Symposium, 2022* ([PDF](/files/articles/22SEC-GhostTouch.pdf), [Webpage](https://github.com/USSLab/GhostTouch))
 
