@@ -16,11 +16,12 @@ In *__SEC'23__: USENIX Security Symposium, 2023* (To appear)
 
 [**PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle**]()  
 Zizhi Jin, Xiaoyu Ji, Yushi Cheng, Bo Yang, Chen Yan, and Wenyuan Xu.  
-In ***Oakland'23**: IEEE Symposium on Security and Privacy, 2023* (To appear)
+In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* (To appear)
 
-<!-- [**DeHiREC: Detecting Hidden Voice Recorders via ADC Electromagnetic Radiation**]()  
-Ruochen Zhou, Xiaoyu Ji, Chen Yan, Chaohao Li, and Wenyuan Xu.  
-In ***Oakland'23**: IEEE Symposium on Security and Privacy, 2023* (To appear)   -->
+[**DeHiREC: Detecting Hidden Voice Recorders via ADC Electromagnetic Radiation**]()  
+Ruochen Zhou, Xiaoyu Ji, Chen Yan, Chaohao Li, Yichao Chen, and Wenyuan Xu.  
+In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* (To appear)  
+
 
 ## 2022
 
@@ -30,7 +31,7 @@ In ***Oakland'22**: IEEE Symposium on Security and Privacy, 2022* ([PDF](/files/
 
 [**Rolling Colors: Adversarial Laser Exploits against Traffic Light Recognition**](https://www.usenix.org/conference/usenixsecurity22/presentation/yan)  
 Chen Yan, Zhijian Xu, Zhanyuan Yin, Xiaoyu Ji, Wenyuan Xu.  
-In ***SEC'22**: USENIX Security Symposium, 2022* ([PDF](/files/articles/22SEC-RollingColors.pdf), [Demo](https://sites.google.com/view/rollingcolors))
+In ***SEC'22**: USENIX Security Symposium, 2022* ([PDF](/files/articles/22SEC-RollingColors.pdf), [Slides](/files/slides/22SEC-RollingColors-slides.pdf), [Demo](https://sites.google.com/view/rollingcolors))
 
 [**GhostTouch: Targeted Attacks on Touchscreens without Physical Touch**](https://www.usenix.org/conference/usenixsecurity22/presentation/wang-kai)  
 Kai Wang, Chen Yan, Richard Mitev, Xiaoyu Ji, Ahmad-Reza Sadeghi, Wenyuan Xu.  
