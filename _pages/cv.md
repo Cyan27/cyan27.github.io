@@ -33,6 +33,7 @@ My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) 
   - IEEE Transactions on Dependable and Secure Computing (TDSC)
   - IEEE Transactions on Information Forensics and Security (TIFS)
   - IEEE Transactions on Cognitive and Developmental Systems (TCDS)
+  - IEEE Transactions on Instrumentation and Measurement (TIM)
   - IEEE Vehicular Technology Magazine (VTM)
   - IEEE Intelligent Transportation Systems Magazine (ITSM)
   - ACM IMWUT 2021
