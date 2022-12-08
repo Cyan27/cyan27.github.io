@@ -35,15 +35,15 @@ In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* (To appear)
 
 [**WIGHT: Wired Ghost Touch Attack on Capacitive Touchscreens**](https://www.computer.org/csdl/proceedings-article/sp/2022/131600b537/1CIO7Ic5kR2)  
 Yan Jiang, Xiaoyu Ji, Kai Wang, Chen Yan, Richard Mitev, Ahmad-Reza Sadeghi, and Wenyuan Xu.  
-In ***Oakland'22**: IEEE Symposium on Security and Privacy, 2022* ([PDF](/files/articles/22Oakland-WIGHT.pdf), [Slides](/files/slides/22Oakland-WIGHT-slides.pdf), [Teaser Video](https://www.youtube.com/watch?v=cH51yFJe4NE))
+In ***Oakland'22**: IEEE Symposium on Security and Privacy, 2022* ([PDF](/files/articles/22Oakland-WIGHT.pdf), [Slides](/files/slides/22Oakland-WIGHT-slides.pdf), [Talk Video](https://www.youtube.com/watch?v=4Rq5Q8ysDzY), [Teaser Video](https://www.youtube.com/watch?v=cH51yFJe4NE))
 
 [**Rolling Colors: Adversarial Laser Exploits against Traffic Light Recognition**](https://www.usenix.org/conference/usenixsecurity22/presentation/yan)  
 Chen Yan, Zhijian Xu, Zhanyuan Yin, Xiaoyu Ji, Wenyuan Xu.  
-In ***SEC'22**: USENIX Security Symposium, 2022* ([PDF](/files/articles/22SEC-RollingColors.pdf), [Slides](/files/slides/22SEC-RollingColors-slides.pdf), [Demo](https://sites.google.com/view/rollingcolors))
+In ***SEC'22**: USENIX Security Symposium, 2022* ([PDF](/files/articles/22SEC-RollingColors.pdf), [Slides](/files/slides/22SEC-RollingColors-slides.pdf), [Demo](https://sites.google.com/view/rollingcolors), [Talk Video](https://www.youtube.com/watch?v=BGrHqkh2Whk))
 
 [**GhostTouch: Targeted Attacks on Touchscreens without Physical Touch**](https://www.usenix.org/conference/usenixsecurity22/presentation/wang-kai)  
 Kai Wang, Chen Yan, Richard Mitev, Xiaoyu Ji, Ahmad-Reza Sadeghi, Wenyuan Xu.  
-In ***SEC'22**: USENIX Security Symposium, 2022* ([PDF](/files/articles/22SEC-GhostTouch.pdf), [Webpage](https://github.com/USSLab/GhostTouch))
+In ***SEC'22**: USENIX Security Symposium, 2022* ([PDF](/files/articles/22SEC-GhostTouch.pdf), [Webpage](https://github.com/USSLab/GhostTouch), [Talk Video](https://www.youtube.com/watch?v=z9BwGDX-YYQ))
 
 [**A Survey on Voice Assistant Security: Attacks and Countermeasures**](https://dl.acm.org/doi/abs/10.1145/3527153)  
 Chen Yan, Xiaoyu Ji, Kai Wang, Qinhong Jiang, Zizhi Jin, Wenyuan Xu.  
@@ -58,7 +58,7 @@ In ***CCCF'22**: 中国计算机学会通讯, 18:2, 46-52, 2022* ([PDF](/files/a
 
 [**Poltergeist: Acoustic Manipulation of Image Stabilization towards Object Mis-Labeling**](https://www.computer.org/csdl/proceedings-article/sp/2021/893400b573/1t0x9rMmOze)  
 Xiaoyu Ji, Yushi Cheng, Yuepeng Zhang, Kai Wang, Chen Yan, Kevin Fu, Wenyuan Xu.   
-In ***Oakland'21**: IEEE Symposium on Security and Privacy, 2021* ([PDF](/files/articles/21Oakland-Poltergeist.pdf), [Webpage](https://github.com/USSLab/PoltergeistAttack))
+In ***Oakland'21**: IEEE Symposium on Security and Privacy, 2021* ([PDF](/files/articles/21Oakland-Poltergeist.pdf), [Webpage](https://github.com/USSLab/PoltergeistAttack), [Talk Video](https://www.youtube.com/watch?v=PN7q0Wk4R80), [Teaser Video](https://www.youtube.com/watch?v=Aqu7JSjBdrk))
 
 
 ## 2020
