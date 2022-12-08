@@ -35,7 +35,7 @@ In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* (To appear)
 
 [**WIGHT: Wired Ghost Touch Attack on Capacitive Touchscreens**](https://www.computer.org/csdl/proceedings-article/sp/2022/131600b537/1CIO7Ic5kR2)  
 Yan Jiang, Xiaoyu Ji, Kai Wang, Chen Yan, Richard Mitev, Ahmad-Reza Sadeghi, and Wenyuan Xu.  
-In ***Oakland'22**: IEEE Symposium on Security and Privacy, 2022* ([PDF](/files/articles/22Oakland-WIGHT.pdf), [Teaser Video](https://www.youtube.com/watch?v=cH51yFJe4NE))
+In ***Oakland'22**: IEEE Symposium on Security and Privacy, 2022* ([PDF](/files/articles/22Oakland-WIGHT.pdf), [Slides](/files/slides/22Oakland-WIGHT-slides.pdf), [Teaser Video](https://www.youtube.com/watch?v=cH51yFJe4NE))
 
 [**Rolling Colors: Adversarial Laser Exploits against Traffic Light Recognition**](https://www.usenix.org/conference/usenixsecurity22/presentation/yan)  
 Chen Yan, Zhijian Xu, Zhanyuan Yin, Xiaoyu Ji, Wenyuan Xu.  
