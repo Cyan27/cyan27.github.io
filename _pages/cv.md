@@ -36,6 +36,8 @@ My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) 
   - IEEE Transactions on Instrumentation and Measurement (TIM)
   - IEEE Vehicular Technology Magazine (VTM)
   - IEEE Intelligent Transportation Systems Magazine (ITSM)
+  - Information and Software Technology (INFSOF)
+  - Cybersecurity
   - ACM IMWUT 2021
   - IEEE Sensors 2019
 

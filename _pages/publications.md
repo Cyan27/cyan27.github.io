@@ -10,10 +10,6 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## 2023
 
-[**Your Eyes Tell: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing**]()  
-Yan Long, Chen Yan, Shilin Xiao, Shivan Prasad, Wenyuan Xu, Kevin Fu.  
-In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* (To appear)  
-
 [**Learning Normality Is Enough: A Software-based Mitigation against the Inaudible Voice Attacks**]()  
 Xinfeng Li, Xiaoyu Ji, Chen Yan, Chaohao Li, Yichen Li, Zhenning Zhang, Wenyuan Xu.  
 In *__SEC'23__: USENIX Security Symposium, 2023* (To appear)  
@@ -21,6 +17,14 @@ In *__SEC'23__: USENIX Security Symposium, 2023* (To appear)
 [**GlitchHiker: Uncovering Vulnerabilities of Image Signal Transmission with IEMI**]()  
 Qinhong Jiang, Xiaoyu Ji, Chen Yan, Zhixin Xie, Haina Lou, and Wenyuan Xu.  
 In *__SEC'23__: USENIX Security Symposium, 2023* (To appear)  
+
+[**Volttack: Control IoT Devices by Manipulating Power Supply Voltage**]()  
+Kai Wang, Shilin Xiao, Xiaoyu Ji, Chen Yan, Chaohao Li, Wenyuan Xu.  
+In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* (To appear)  
+
+[**Your Eyes Tell: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing**]()  
+Yan Long, Chen Yan, Shilin Xiao, Shivan Prasad, Wenyuan Xu, Kevin Fu.  
+In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* (To appear)  
 
 [**PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle**]()  
 Zizhi Jin, Xiaoyu Ji, Yushi Cheng, Bo Yang, Chen Yan, and Wenyuan Xu.  
