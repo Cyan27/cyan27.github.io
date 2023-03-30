@@ -23,7 +23,7 @@ My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) 
   - **Information Security Recognition**&emsp;*Tesla Motors, 2016*
   - **1st Prize Winner**&emsp;*Syscan360 Car Hacking Contest 2016, HackPwn 2015*
 
-## Professional Activities
+## Academic Services
 
 - **Technical Program Committee**
   - ACM CCS 2021
@@ -32,6 +32,7 @@ My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) 
 - **Reviewer**
   - IEEE Transactions on Dependable and Secure Computing (TDSC)
   - IEEE Transactions on Information Forensics and Security (TIFS)
+  - IEEE Transactions on Mobile Computing (TMC)
   - IEEE Transactions on Cognitive and Developmental Systems (TCDS)
   - IEEE Transactions on Instrumentation and Measurement (TIM)
   - IEEE Vehicular Technology Magazine (VTM)
