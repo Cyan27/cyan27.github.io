@@ -26,7 +26,7 @@ My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) 
 ## Academic Services
 
 - **Technical Program Committee**
-  - USENIX Security 2023 (Vice Co-chair)
+  - USENIX Security 2024 (Vice Co-chair)
   - ACM CCS 2021, 2023
   - ACM SenSys 2022 (Shadow PC)
 
