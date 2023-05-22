@@ -22,15 +22,15 @@ In *__SEC'23__: USENIX Security Symposium, 2023* (To appear)
 Kai Wang, Shilin Xiao, Xiaoyu Ji, Chen Yan, Chaohao Li, Wenyuan Xu.  
 In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* (To appear)  
 
-[**Your Eyes Tell: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing**]()  
+[**Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing**](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a870/1Js0Dr0fNKM)  
 Yan Long, Chen Yan, Shilin Xiao, Shivan Prasad, Wenyuan Xu, Kevin Fu.  
 In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* (To appear)  
 
-[**PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle**]()  
+[**PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle**](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a710/1He7YyVC6WY)  
 Zizhi Jin, Xiaoyu Ji, Yushi Cheng, Bo Yang, Chen Yan, and Wenyuan Xu.  
 In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* (To appear)  
 
-[**DeHiREC: Detecting Hidden Voice Recorders via ADC Electromagnetic Radiation**]()  
+[**DeHiREC: Detecting Hidden Voice Recorders via ADC Electromagnetic Radiation**](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a658/1He7Yvurmgw)  
 Ruochen Zhou, Xiaoyu Ji, Chen Yan, Chaohao Li, Yichao Chen, and Wenyuan Xu.  
 In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* (To appear)  
 
