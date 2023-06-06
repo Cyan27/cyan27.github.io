@@ -10,29 +10,34 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## 2023
 
-[**Learning Normality Is Enough: A Software-based Mitigation against the Inaudible Voice Attacks**]()  
+
+[**MicPro: Microphone-based Voice Privacy Protection**]()  
+Shilin Xiao, Xiaoyu Ji, Chen Yan, Zhicong Zheng, Wenyuan Xu.  
+In *__CCS'23__: ACM Conference on Computer and Communications Security, 2023* (To appear)  
+
+[**Learning Normality Is Enough: A Software-based Mitigation against the Inaudible Voice Attacks**](https://www.usenix.org/conference/usenixsecurity23/presentation/lixinfeng)  
 Xinfeng Li, Xiaoyu Ji, Chen Yan, Chaohao Li, Yichen Li, Zhenning Zhang, Wenyuan Xu.  
-In *__SEC'23__: USENIX Security Symposium, 2023* (To appear)  
+In *__SEC'23__: USENIX Security Symposium, 2023* ([Prepub](https://www.usenix.org/system/files/sec23summer_187-li_xinfeng-prepub.pdf))  
 
-[**GlitchHiker: Uncovering Vulnerabilities of Image Signal Transmission with IEMI**]()  
+[**GlitchHiker: Uncovering Vulnerabilities of Image Signal Transmission with IEMI**](https://www.usenix.org/conference/usenixsecurity23/presentation/jiangqinhong)  
 Qinhong Jiang, Xiaoyu Ji, Chen Yan, Zhixin Xie, Haina Lou, and Wenyuan Xu.  
-In *__SEC'23__: USENIX Security Symposium, 2023* (To appear)  
+In *__SEC'23__: USENIX Security Symposium, 2023* ([Prepub](https://www.usenix.org/system/files/sec23summer_149-jiang_qinhong-prepub.pdf))  
 
-[**Volttack: Control IoT Devices by Manipulating Power Supply Voltage**]()  
+[**Volttack: Control IoT Devices by Manipulating Power Supply Voltage**](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b771/1NrbZa2LlLy)  
 Kai Wang, Shilin Xiao, Xiaoyu Ji, Chen Yan, Chaohao Li, Wenyuan Xu.  
-In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* (To appear)  
+In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* ([PDF](/files/articles/23Oakland-Volttack.pdf), [Webpage](https://github.com/USSLab/Volttack))  
 
 [**Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing**](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a870/1Js0Dr0fNKM)  
 Yan Long, Chen Yan, Shilin Xiao, Shivan Prasad, Wenyuan Xu, Kevin Fu.  
-In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* (To appear)  
+In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* ([PDF](/files/articles/23Oakland-GlassReflection.pdf), [Webpage](https://github.com/longyan97/EyeglassFilter))  
 
 [**PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle**](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a710/1He7YyVC6WY)  
 Zizhi Jin, Xiaoyu Ji, Yushi Cheng, Bo Yang, Chen Yan, and Wenyuan Xu.  
-In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* (To appear)  
+In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* ([PDF](/files/articles/23Oakland-PLALiDAR.pdf), [Demo](https://sites.google.com/view/physical-lidar-attack))  
 
 [**DeHiREC: Detecting Hidden Voice Recorders via ADC Electromagnetic Radiation**](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a658/1He7Yvurmgw)  
 Ruochen Zhou, Xiaoyu Ji, Chen Yan, Chaohao Li, Yichao Chen, and Wenyuan Xu.  
-In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* (To appear)  
+In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* ([PDF](/files/articles/23Oakland-DeHiREC.pdf))  
 
 
 ## 2022
