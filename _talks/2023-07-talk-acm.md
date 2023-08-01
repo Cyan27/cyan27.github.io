@@ -3,7 +3,7 @@ title: "Your Devices are Mine: The Security and Privacy of Intelligent Systems"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-07-talk-acm
-venue: "ACM China Turing Awaard Celebration Conference 2023"
+venue: "ACM China Turing Award Celebration Conference 2023"
 date: 2023-07-29
 location: "Wuhan, China"
 ---
