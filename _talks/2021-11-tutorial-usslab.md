@@ -8,7 +8,7 @@ date: 2021-11-12
 location: "Hangzhou, China"
 ---
 
-[Link to slides](https://cyan27.github.io/files/slides/21LAB-tutorial-slides.pdf)
+<!-- [Link to slides](https://cyan27.github.io/files/slides/21LAB-tutorial-slides.pdf) -->
 
 <!-- [More information here](http://exampleurl.com) -->
 
