@@ -27,7 +27,7 @@ In *__MM'23__: The 31st ACM International Conference on Multimedia, 2023* (To ap
 
 [**Towards Pitch-Insensitive Speaker Verification via Soundfield**](https://ieeexplore.ieee.org/document/10164637)  
 Xinfeng Li, Zhicong Zheng, Chen Yan, Chaohao Li, Xiaoyu Ji, Wenyuan Xu.  
-In **__IoTJ__: IEEE Internet of Things Journal** (To appear)  
+In *__IoTJ__: IEEE Internet of Things Journal* (To appear)  
 
 [**BitDance: Manipulating UART Serial Communication with IEMI**]()  
 Zhixin Xie, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
