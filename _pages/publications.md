@@ -39,11 +39,11 @@ In *__CCS'23__: ACM Conference on Computer and Communications Security, 2023* (T
 
 [**Learning Normality Is Enough: A Software-based Mitigation against the Inaudible Voice Attacks**](https://www.usenix.org/conference/usenixsecurity23/presentation/lixinfeng)  
 Xinfeng Li, Xiaoyu Ji, Chen Yan, Chaohao Li, Yichen Li, Zhenning Zhang, Wenyuan Xu.  
-In *__SEC'23__: USENIX Security Symposium, 2023* ([Prepub](https://www.usenix.org/system/files/sec23summer_187-li_xinfeng-prepub.pdf))  
+In *__SEC'23__: USENIX Security Symposium, 2023* ([PDF](https://www.usenix.org/system/files/usenixsecurity23-li-xinfeng.pdf), [Slides](https://www.usenix.org/system/files/sec23_slides_li-xinfeng.pdf), [Demo](https://sites.google.com/view/normdetect))  
 
 [**GlitchHiker: Uncovering Vulnerabilities of Image Signal Transmission with IEMI**](https://www.usenix.org/conference/usenixsecurity23/presentation/jiangqinhong)  
 Qinhong Jiang, Xiaoyu Ji, Chen Yan, Zhixin Xie, Haina Lou, and Wenyuan Xu.  
-In *__SEC'23__: USENIX Security Symposium, 2023* ([Prepub](https://www.usenix.org/system/files/sec23summer_149-jiang_qinhong-prepub.pdf))  
+In *__SEC'23__: USENIX Security Symposium, 2023* ([PDF](https://www.usenix.org/system/files/usenixsecurity23-jiang-qinhong.pdf))  
 
 [**Volttack: Control IoT Devices by Manipulating Power Supply Voltage**](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b771/1NrbZa2LlLy)  
 Kai Wang, Shilin Xiao, Xiaoyu Ji, Chen Yan, Chaohao Li, Wenyuan Xu.  

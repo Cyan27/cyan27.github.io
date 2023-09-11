@@ -27,7 +27,7 @@ I have analyzed/enhanced the security of various real-world systems including se
 [Forbes](http://www.forbes.com/sites/thomasbrewster/2016/08/04/tesla-autopilot-hack-crash/#235519f6dc93) (2016),
 etc.
 
-Please also refer to my [homepage@ZJU (中文主页)](https://person.zju.edu.cn/cyan) for information in Chinese.
+Please visit my [homepage@ZJU (中文主页)](https://person.zju.edu.cn/cyan) for information in Chinese.
 
 
 <!-- For more info
