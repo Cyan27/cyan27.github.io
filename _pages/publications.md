@@ -10,28 +10,39 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 
 ## 2024  
 
+[**EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras**]()  
+Yan long, Qinhong Jiang, Chen Yan, Tobias Alam, Xiaoyu Ji, Wenyuan Xu, Kevin Fu.  
+In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* (To appear)  
+
 [**GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards**]()  
 Qinhong Jiang, Yanze Ren, Yan Long, Chen Yan, Yumai Sun, Xiaoyu Ji, Kevin Fu, Wenyuan Xu.  
-In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* (To appear)  
+In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* (To appear) 
+<!-- Corresponding author -->
 
 [**Inaudible Adversarial Perturbation: Manipulating the Recognition of User Speech in Real Time**]()  
 Xinfeng Li, Chen Yan, Xuancun Lu, Zihan Zeng, Xiaoyu Ji, Wenyuan Xu.  
 In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* (To appear)  
-
+<!-- Corresponding author -->
 
 ## 2023
+[**Marionette: Manipulate Your Touchscreen via A Charging Cable**]()  
+Yan Jiang, Xiaoyu Ji, Kai Wang, Chen Yan, Richard Mitev, Ahmad-Reza Sadeghi, Wenyuan Xu.  
+In *__TDSC__: IEEE Transactions on Dependable and Secure Computing* (To appear)  
 
 [**The Silent Manipulator: A Practical and Inaudible Backdoor Attack against Speech Recognition Systems**]()  
 Zhicong Zheng, Xinfeng Li, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
 In *__MM'23__: The 31st ACM International Conference on Multimedia, 2023* (To appear)  
+<!-- Corresponding author -->
 
 [**Towards Pitch-Insensitive Speaker Verification via Soundfield**](https://ieeexplore.ieee.org/document/10164637)  
 Xinfeng Li, Zhicong Zheng, Chen Yan, Chaohao Li, Xiaoyu Ji, Wenyuan Xu.  
 In *__IoTJ__: IEEE Internet of Things Journal* (To appear)  
+<!-- Corresponding author -->
 
 [**BitDance: Manipulating UART Serial Communication with IEMI**]()  
 Zhixin Xie, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
 In *__RAID'23__: The 26th International Symposium on Research in Attacks, Intrusions and Defenses, 2023* (To appear)  
+<!-- Corresponding author -->
 
 [**MicPro: Microphone-based Voice Privacy Protection**]()  
 Shilin Xiao, Xiaoyu Ji, Chen Yan, Zhicong Zheng, Wenyuan Xu.  
@@ -44,10 +55,12 @@ In *__SEC'23__: USENIX Security Symposium, 2023* ([PDF](https://www.usenix.org/s
 [**GlitchHiker: Uncovering Vulnerabilities of Image Signal Transmission with IEMI**](https://www.usenix.org/conference/usenixsecurity23/presentation/jiangqinhong)  
 Qinhong Jiang, Xiaoyu Ji, Chen Yan, Zhixin Xie, Haina Lou, and Wenyuan Xu.  
 In *__SEC'23__: USENIX Security Symposium, 2023* ([PDF](https://www.usenix.org/system/files/usenixsecurity23-jiang-qinhong.pdf))  
+<!-- Corresponding author -->
 
 [**Volttack: Control IoT Devices by Manipulating Power Supply Voltage**](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b771/1NrbZa2LlLy)  
 Kai Wang, Shilin Xiao, Xiaoyu Ji, Chen Yan, Chaohao Li, Wenyuan Xu.  
 In *__Oakland'23__: IEEE Symposium on Security and Privacy, 2023* ([PDF](/files/articles/23Oakland-Volttack.pdf), [Webpage](https://github.com/USSLab/Volttack))  
+<!-- Corresponding author -->
 
 [**Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing**](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a870/1Js0Dr0fNKM)  
 Yan Long, Chen Yan, Shilin Xiao, Shivan Prasad, Wenyuan Xu, Kevin Fu.  
