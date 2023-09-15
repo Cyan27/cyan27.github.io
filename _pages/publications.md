@@ -91,7 +91,7 @@ In *__SEC'22__: USENIX Security Symposium, 2022* ([PDF](/files/articles/22SEC-Gh
 
 [**A Survey on Voice Assistant Security: Attacks and Countermeasures**](https://dl.acm.org/doi/abs/10.1145/3527153)  
 Chen Yan, Xiaoyu Ji, Kai Wang, Qinhong Jiang, Zizhi Jin, Wenyuan Xu.  
-In *__CSUR__: ACM Computing Surveys, 2022* ([PDF](/files/articles/22CSUR-Survey.pdf))
+In *__CSUR__: ACM Computing Surveys, 55:4, 1-36, 2022* ([PDF](/files/articles/22CSUR-Survey.pdf))
 
 [**从带内到带外——智能系统的脆弱性体系演变**](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5832307321538560)   
 Wenyuan Xu, Shize Guo, Xiaoyu Ji, and Chen Yan.  
@@ -109,7 +109,7 @@ In *__Oakland'21__: IEEE Symposium on Security and Privacy, 2021* ([PDF](/files/
 
 [**A Nonlinearity-based Secure Face-to-Face Device Authentication for Mobile Devices**](https://ieeexplore.ieee.org/document/9200789)  
 Xiaoyu Ji, Xinyan Zhou, Chen Yan, Jiangyi Deng, Wenyuan Xu.   
-In *__TMC__: IEEE Transactions on Mobile Computing, 2020* ([PDF](/files/articles/20TMC-Nonlinearity.pdf))
+In *__TMC__: IEEE Transactions on Mobile Computing, 21:4, 1155-1171, 2022* ([PDF](/files/articles/20TMC-Nonlinearity.pdf))
 
 [**SoK: A Minimalist Approach to Formalizing Analog Sensor Security**](https://ieeexplore.ieee.org/document/9152711)   
 Chen Yan, Hocheol Shin, Connor Bolton, Wenyuan Xu, Yongdae Kim, Kevin Fu.   
@@ -124,7 +124,7 @@ In *__CCS'19__: ACM Conference on Computer and Communications Security, 2019* ([
 
 [**The Feasibility of Injecting Inaudible Voice Commands to Voice Assistants**](https://ieeexplore.ieee.org/document/8669818)  
 Chen Yan, Guoming Zhang, Xiaoyu Ji, Tianchen Zhang, Taimin Zhang, Wenyuan Xu.   
-In *__TDSC__: IEEE Transactions on Dependable and Secure Computing, 2019* ([PDF](/files/articles/19TDSC-DolphinAttack.pdf))
+In *__TDSC__: IEEE Transactions on Dependable and Secure Computing, 18:3, 1108-1124, 2021* ([PDF](/files/articles/19TDSC-DolphinAttack.pdf))
 
 [**NAuth: Secure Face-to-Face Device Authentication via Nonlinearity**](https://ieeexplore.ieee.org/abstract/document/8737572/)  
 Xinyan Zhou, Xiaoyu Ji, Chen Yan, Jiangyi Deng, Wenyuan Xu.  
@@ -133,7 +133,7 @@ In *__INFOCOM'19__: IEEE Conference on Computer Communications, 2019* ([PDF](/fi
 
 [**On Cuba, Diplomats, Ultrasound, and Intermodulation Distortion**](https://www.sciencedirect.com/science/article/pii/S0010482518303743)  
 Chen Yan, Kevin Fu, Wenyuan Xu.   
-In *__CBM__: Computers in Biology and Medicine 104, 2019* ([PDF](/files/articles/19CBM-Cuba.pdf))
+In *__CBM__: Computers in Biology and Medicine, 104, 250-266, 2019* ([PDF](/files/articles/19CBM-Cuba.pdf))
 
 
 ## 2018
