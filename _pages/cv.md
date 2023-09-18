@@ -31,6 +31,7 @@ My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) 
 - **Program Committee** 
   - [ACM CCS 2021](https://www.sigsac.org/ccs/CCS2021/), [2023](https://www.sigsac.org/ccs/CCS2023/)
   - [ACM SenSys 2022](http://sensys.acm.org/2022/)
+  - [IEEE MSN 2023](https://ieee-msn.org/2023/index.php)
 
 - **Reviewer**
   - IEEE Transactions on Dependable and Secure Computing (TDSC)
