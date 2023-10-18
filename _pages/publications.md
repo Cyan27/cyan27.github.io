@@ -39,14 +39,14 @@ Xinfeng Li, Zhicong Zheng, Chen Yan, Chaohao Li, Xiaoyu Ji, Wenyuan Xu.
 In *__IoTJ__: IEEE Internet of Things Journal* (To appear)  
 <!-- Corresponding author -->
 
-[**BitDance: Manipulating UART Serial Communication with IEMI**]()  
-Zhixin Xie, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
-In *__RAID'23__: The 26th International Symposium on Research in Attacks, Intrusions and Defenses, 2023* (To appear)  
-<!-- Corresponding author -->
-
 [**MicPro: Microphone-based Voice Privacy Protection**]()  
 Shilin Xiao, Xiaoyu Ji, Chen Yan, Zhicong Zheng, Wenyuan Xu.  
 In *__CCS'23__: ACM Conference on Computer and Communications Security, 2023* (To appear)  
+
+[**BitDance: Manipulating UART Serial Communication with IEMI**](https://dl.acm.org/doi/10.1145/3607199.3607249)  
+Zhixin Xie, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
+In *__RAID'23__: The 26th International Symposium on Research in Attacks, Intrusions and Defenses, 2023* ([PDF](/files/articles/23RAID-BitDance.pdf))  
+<!-- Corresponding author -->
 
 [**Learning Normality Is Enough: A Software-based Mitigation against the Inaudible Voice Attacks**](https://www.usenix.org/conference/usenixsecurity23/presentation/lixinfeng)  
 Xinfeng Li, Xiaoyu Ji, Chen Yan, Chaohao Li, Yichen Li, Zhenning Zhang, Wenyuan Xu.  
