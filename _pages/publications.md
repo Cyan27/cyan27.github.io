@@ -25,23 +25,29 @@ In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* (T
 <!-- Corresponding author -->
 
 ## 2023
-[**Marionette: Manipulate Your Touchscreen via A Charging Cable**]()  
-Yan Jiang, Xiaoyu Ji, Kai Wang, Chen Yan, Richard Mitev, Ahmad-Reza Sadeghi, Wenyuan Xu.  
-In *__TDSC__: IEEE Transactions on Dependable and Secure Computing* (To appear)  
+
+[**MicPro: Microphone-based Voice Privacy Protection**]()  
+Shilin Xiao, Xiaoyu Ji, Chen Yan, Zhicong Zheng, Wenyuan Xu.  
+In *__CCS'23__: ACM Conference on Computer and Communications Security, 2023* (To appear) 
 
 [**The Silent Manipulator: A Practical and Inaudible Backdoor Attack against Speech Recognition Systems**]()  
 Zhicong Zheng, Xinfeng Li, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
 In *__MM'23__: The 31st ACM International Conference on Multimedia, 2023* (To appear)  
 <!-- Corresponding author -->
 
-[**Towards Pitch-Insensitive Speaker Verification via Soundfield**](https://ieeexplore.ieee.org/document/10164637)  
-Xinfeng Li, Zhicong Zheng, Chen Yan, Chaohao Li, Xiaoyu Ji, Wenyuan Xu.  
-In *__IoTJ__: IEEE Internet of Things Journal* (To appear)  
+[**Marionette: Manipulate Your Touchscreen via A Charging Cable**](https://www.computer.org/csdl/journal/tq/5555/01/10288382/1Rp0oY44cWA)  
+Yan Jiang, Xiaoyu Ji, Kai Wang, Chen Yan, Richard Mitev, Ahmad-Reza Sadeghi, Wenyuan Xu.  
+In *__TDSC__: IEEE Transactions on Dependable and Secure Computing* (Preprint)  
+
+[**Enrollment-stage Backdoor Attacks on Speaker Recognition Systems via Adversarial Ultrasound**](https://ieeexplore.ieee.org/document/10301792)  
+Xinfeng Li, Junning Ze, Chen Yan, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu.  
+In *__IoTJ__: IEEE Internet of Things Journal* (Early Access)  
 <!-- Corresponding author -->
 
-[**MicPro: Microphone-based Voice Privacy Protection**]()  
-Shilin Xiao, Xiaoyu Ji, Chen Yan, Zhicong Zheng, Wenyuan Xu.  
-In *__CCS'23__: ACM Conference on Computer and Communications Security, 2023* (To appear)  
+[**Towards Pitch-Insensitive Speaker Verification via Soundfield**](https://ieeexplore.ieee.org/document/10164637)  
+Xinfeng Li, Zhicong Zheng, Chen Yan, Chaohao Li, Xiaoyu Ji, Wenyuan Xu.  
+In *__IoTJ__: IEEE Internet of Things Journal* (Early Access)  
+<!-- Corresponding author -->
 
 [**BitDance: Manipulating UART Serial Communication with IEMI**](https://dl.acm.org/doi/10.1145/3607199.3607249)  
 Zhixin Xie, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
