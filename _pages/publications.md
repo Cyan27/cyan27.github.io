@@ -26,13 +26,13 @@ In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* (T
 
 ## 2023
 
-[**MicPro: Microphone-based Voice Privacy Protection**]()  
+[**MicPro: Microphone-based Voice Privacy Protection**](https://dl.acm.org/doi/10.1145/3576915.3616616)  
 Shilin Xiao, Xiaoyu Ji, Chen Yan, Zhicong Zheng, Wenyuan Xu.  
-In *__CCS'23__: ACM Conference on Computer and Communications Security, 2023* (To appear) 
+In *__CCS'23__: ACM Conference on Computer and Communications Security, 2023* ([PDF](https://dl.acm.org/doi/pdf/10.1145/3576915.3616616),[Website](https://github.com/USSLab/MicPro)) 
 
-[**The Silent Manipulator: A Practical and Inaudible Backdoor Attack against Speech Recognition Systems**]()  
+[**The Silent Manipulator: A Practical and Inaudible Backdoor Attack against Speech Recognition Systems**](https://dl.acm.org/doi/abs/10.1145/3581783.3613843)  
 Zhicong Zheng, Xinfeng Li, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
-In *__MM'23__: The 31st ACM International Conference on Multimedia, 2023* (To appear)  
+In *__MM'23__: The 31st ACM International Conference on Multimedia, 2023* ([PDF](https://dl.acm.org/doi/pdf/10.1145/3581783.3613843))  
 <!-- Corresponding author -->
 
 [**Marionette: Manipulate Your Touchscreen via A Charging Cable**](https://www.computer.org/csdl/journal/tq/5555/01/10288382/1Rp0oY44cWA)  
