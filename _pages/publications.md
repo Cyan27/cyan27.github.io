@@ -24,6 +24,11 @@ Xinfeng Li, Chen Yan, Xuancun Lu, Zihan Zeng, Xiaoyu Ji, Wenyuan Xu.
 In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* (To appear)  
 <!-- Corresponding author -->
 
+[**Analyzing and Defending GhostTouch Attack against Capacitive Touchscreens**](https://www.computer.org/csdl/journal/tq/5555/01/10388405/1TCu7uGOkDK)  
+Kai Wang, Richard Mitev, Chen Yan, Xiaoyu Ji, Ahmad-Reza Sadeghi, Wenyuan Xu.  
+In *__TDSC__: IEEE Transactions on Dependable and Secure Computing* (Preprint)  
+
+
 ## 2023
 
 [**MicPro: Microphone-based Voice Privacy Protection**](https://dl.acm.org/doi/10.1145/3576915.3616616)  
