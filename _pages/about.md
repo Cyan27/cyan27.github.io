@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Chen Yan (闫琛), a security researcher and an Assistant Professor at Zhejiang University in the [College of Electrical Engineering](http://ee.zju.edu.cn/englishee/main.htm). I'm a faculty member of the [Ubiquitous System Security Laboratory (USSLAB)](http://usslab.org/) led by Prof. Wenyuan Xu.
+Hi! I'm Chen Yan (闫琛), a security researcher and an Associate Professor at Zhejiang University in the [College of Electrical Engineering](http://ee.zju.edu.cn/englishee/main.htm). I'm a faculty member of the [Ubiquitous System Security Laboratory (USSLAB)](http://usslab.org/) led by Prof. Wenyuan Xu.
 My research focuses on **securing cyber systems in the physical world**, with a particular interest in sensing security.
 I'm also interested in biometrics, device fingerprinting, side channel, covert channel, machine learning security, embedded system security, acoustics, and anything in security research that involves signals and physics. 
 
