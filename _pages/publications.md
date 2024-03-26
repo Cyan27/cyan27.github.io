@@ -10,18 +10,25 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 
 ## 2024  
 
-[**EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras**]()  
-Yan long, Qinhong Jiang, Chen Yan, Tobias Alam, Xiaoyu Ji, Wenyuan Xu, Kevin Fu.  
-In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* (To appear)  
+<!-- Understanding Impacts Of Electromagnetic Signal Injection Attacks On Object Detection
+ICME'20'24 -->
 
-[**GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards**]()  
+[**Unity is Strength? Benchmarking the Robustness of Fusion-based 3D Object Detection against Physical Sensor Attack**]()
+Zizhi Jin, Xuancun Lu, Bo Yang, Yushi Cheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
+In *__WWW'24__: The Web Conference, 2024* (To appear)
+
+[**EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras**](https://www.ndss-symposium.org/ndss-paper/em-eye-characterizing-electromagnetic-side-channel-eavesdropping-on-embedded-cameras/)  
+Yan long, Qinhong Jiang, Chen Yan, Tobias Alam, Xiaoyu Ji, Wenyuan Xu, Kevin Fu.  
+In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2024-552-paper.pdf))  
+
+[**GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards**](https://www.ndss-symposium.org/ndss-paper/ghosttype-the-limits-of-using-contactless-electromagnetic-interference-to-inject-phantom-keys-into-analog-circuits-of-keyboards/)  
 Qinhong Jiang, Yanze Ren, Yan Long, Chen Yan, Yumai Sun, Xiaoyu Ji, Kevin Fu, Wenyuan Xu.  
-In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* (To appear) 
+In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2024-15-paper.pdf)) 
 <!-- Corresponding author -->
 
-[**Inaudible Adversarial Perturbation: Manipulating the Recognition of User Speech in Real Time**]()  
+[**Inaudible Adversarial Perturbation: Manipulating the Recognition of User Speech in Real Time**](https://www.ndss-symposium.org/ndss-paper/inaudible-adversarial-perturbation-manipulating-the-recognition-of-user-speech-in-real-time/)  
 Xinfeng Li, Chen Yan, Xuancun Lu, Zihan Zeng, Xiaoyu Ji, Wenyuan Xu.  
-In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* (To appear)  
+In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2024-30-paper.pdf))  
 <!-- Corresponding author -->
 
 [**Analyzing and Defending GhostTouch Attack against Capacitive Touchscreens**](https://www.computer.org/csdl/journal/tq/5555/01/10388405/1TCu7uGOkDK)  
