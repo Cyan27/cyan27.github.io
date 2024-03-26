@@ -13,7 +13,7 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 <!-- Understanding Impacts Of Electromagnetic Signal Injection Attacks On Object Detection
 ICME'20'24 -->
 
-[**Unity is Strength? Benchmarking the Robustness of Fusion-based 3D Object Detection against Physical Sensor Attack**]()
+[**Unity is Strength? Benchmarking the Robustness of Fusion-based 3D Object Detection against Physical Sensor Attack**]()  
 Zizhi Jin, Xuancun Lu, Bo Yang, Yushi Cheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
 In *__WWW'24__: The Web Conference, 2024* (To appear)
 
