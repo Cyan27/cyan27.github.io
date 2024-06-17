@@ -13,9 +13,19 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 <!-- Understanding Impacts Of Electromagnetic Signal Injection Attacks On Object Detection
 ICME'20'24 -->
 
-[**Unity is Strength? Benchmarking the Robustness of Fusion-based 3D Object Detection against Physical Sensor Attack**]()  
+[**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**]()   
+Xinfeng Li, Kai Li, Yifan Zheng, Chen Yan, Xiaoyu Ji, Wwenyuan Xu.  
+In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* (To appear) 
+<!-- Corresponding author -->
+
+[**SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models**]()  
+Xinfeng Li, Yuchen Yang, Jiangyi Deng, Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wwenyuan Xu.  
+In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* (To appear) 
+<!-- Corresponding author -->
+
+[**Unity is Strength? Benchmarking the Robustness of Fusion-based 3D Object Detection against Physical Sensor Attack**](https://dl.acm.org/doi/10.1145/3589334.3645612)  
 Zizhi Jin, Xuancun Lu, Bo Yang, Yushi Cheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
-In *__WWW'24__: The Web Conference, 2024* (To appear)
+In *__WWW'24__: The Web Conference, 2024* ([PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645612))
 
 [**EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras**](https://www.ndss-symposium.org/ndss-paper/em-eye-characterizing-electromagnetic-side-channel-eavesdropping-on-embedded-cameras/)  
 Yan long, Qinhong Jiang, Chen Yan, Tobias Alam, Xiaoyu Ji, Wenyuan Xu, Kevin Fu.  
@@ -40,7 +50,7 @@ In *__TDSC__: IEEE Transactions on Dependable and Secure Computing* (Preprint)
 
 [**MicPro: Microphone-based Voice Privacy Protection**](https://dl.acm.org/doi/10.1145/3576915.3616616)  
 Shilin Xiao, Xiaoyu Ji, Chen Yan, Zhicong Zheng, Wenyuan Xu.  
-In *__CCS'23__: ACM Conference on Computer and Communications Security, 2023* ([PDF](https://dl.acm.org/doi/pdf/10.1145/3576915.3616616),[Website](https://github.com/USSLab/MicPro)) 
+In *__CCS'23__: ACM Conference on Computer and Communications Security, 2023* ([PDF](https://dl.acm.org/doi/pdf/10.1145/3576915.3616616), [Website](https://github.com/USSLab/MicPro)) 
 
 [**The Silent Manipulator: A Practical and Inaudible Backdoor Attack against Speech Recognition Systems**](https://dl.acm.org/doi/abs/10.1145/3581783.3613843)  
 Zhicong Zheng, Xinfeng Li, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
@@ -53,12 +63,12 @@ In *__TDSC__: IEEE Transactions on Dependable and Secure Computing* (Preprint)
 
 [**Enrollment-stage Backdoor Attacks on Speaker Recognition Systems via Adversarial Ultrasound**](https://ieeexplore.ieee.org/document/10301792)  
 Xinfeng Li, Junning Ze, Chen Yan, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu.  
-In *__IoTJ__: IEEE Internet of Things Journal* (Early Access)  
+In *__IoTJ__: IEEE Internet of Things Journal, 11:8, 13108-13124, 2024* (PDF)  
 <!-- Corresponding author -->
 
 [**Towards Pitch-Insensitive Speaker Verification via Soundfield**](https://ieeexplore.ieee.org/document/10164637)  
 Xinfeng Li, Zhicong Zheng, Chen Yan, Chaohao Li, Xiaoyu Ji, Wenyuan Xu.  
-In *__IoTJ__: IEEE Internet of Things Journal* (Early Access)  
+In *__IoTJ__: IEEE Internet of Things Journal, 11:1, 1175-1189, 2024* (PDF)  
 <!-- Corresponding author -->
 
 [**BitDance: Manipulating UART Serial Communication with IEMI**](https://dl.acm.org/doi/10.1145/3607199.3607249)  
