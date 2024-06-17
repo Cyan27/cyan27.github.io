@@ -14,12 +14,12 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 ICME'20'24 -->
 
 [**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**]()   
-Xinfeng Li, Kai Li, Yifan Zheng, Chen Yan, Xiaoyu Ji, Wwenyuan Xu.  
+Xinfeng Li, Kai Li, Yifan Zheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
 In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* (To appear) 
 <!-- Corresponding author -->
 
 [**SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models**]()  
-Xinfeng Li, Yuchen Yang, Jiangyi Deng, Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wwenyuan Xu.  
+Xinfeng Li, Yuchen Yang, Jiangyi Deng, Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wenyuan Xu.  
 In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* (To appear) 
 <!-- Corresponding author -->
 
