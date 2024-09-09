@@ -7,11 +7,18 @@ author_profile: true
 
 My articles are also available on my [Google Scholar profile](https://scholar.google.com/citations?user=qhaLpw8AAAAJ&hl=en&oi=sra).
 
+## 2025
+
+[**ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters**]()   
+Fengchen Yang, Zihao Dan, Kaikai Pan, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
+In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (To appear) 
+
+[**PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR**]()   
+Zizhi Jin, Qinhong Jiang, Xuancun Lu, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
+In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (To appear) 
+
 
 ## 2024  
-
-<!-- Understanding Impacts Of Electromagnetic Signal Injection Attacks On Object Detection
-ICME'20'24 -->
 
 [**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**]()   
 Xinfeng Li, Kai Li, Yifan Zheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
@@ -22,6 +29,10 @@ In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* (T
 Xinfeng Li, Yuchen Yang, Jiangyi Deng, Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wenyuan Xu.  
 In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* (To appear) 
 <!-- Corresponding author -->
+
+[**Understanding Impacts Of Electromagnetic Signal Injection Attacks On Object Detection**](https://2024.ieeeicme.org/program/)   
+Youqian Zhang, Chunxi Yang, Eugene Y Fu, Qinhong Jiang, Chen Yan, Sze-Yiu Chau, Grace Ngai, Hong-Va Leong, Xiapu Luo, Wenyuan Xu.   
+In *__ICME'2024__: IEEE International Conference on Multimedia and Expo, 2024* ([PDF](https://arxiv.org/pdf/2407.16327))
 
 [**Unity is Strength? Benchmarking the Robustness of Fusion-based 3D Object Detection against Physical Sensor Attack**](https://dl.acm.org/doi/10.1145/3589334.3645612)  
 Zizhi Jin, Xuancun Lu, Bo Yang, Yushi Cheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
@@ -63,12 +74,12 @@ In *__TDSC__: IEEE Transactions on Dependable and Secure Computing* (Preprint)
 
 [**Enrollment-stage Backdoor Attacks on Speaker Recognition Systems via Adversarial Ultrasound**](https://ieeexplore.ieee.org/document/10301792)  
 Xinfeng Li, Junning Ze, Chen Yan, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu.  
-In *__IoTJ__: IEEE Internet of Things Journal, 11:8, 13108-13124, 2024* (PDF)  
+In *__IoTJ__: IEEE Internet of Things Journal, 11:8, 13108-13124, 2024*  
 <!-- Corresponding author -->
 
 [**Towards Pitch-Insensitive Speaker Verification via Soundfield**](https://ieeexplore.ieee.org/document/10164637)  
 Xinfeng Li, Zhicong Zheng, Chen Yan, Chaohao Li, Xiaoyu Ji, Wenyuan Xu.  
-In *__IoTJ__: IEEE Internet of Things Journal, 11:1, 1175-1189, 2024* (PDF)  
+In *__IoTJ__: IEEE Internet of Things Journal, 11:1, 1175-1189, 2024*   
 <!-- Corresponding author -->
 
 [**BitDance: Manipulating UART Serial Communication with IEMI**](https://dl.acm.org/doi/10.1145/3607199.3607249)  

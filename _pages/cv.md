@@ -29,8 +29,9 @@ My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) 
   - [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24) Vice Co-Chair
 
 - **Program Committee** 
+  - USENIX Security [2024](https://www.usenix.org/conference/usenixsecurity24), [2025](https://www.usenix.org/conference/usenixsecurity25)
   - ACM CCS [2021](https://www.sigsac.org/ccs/CCS2021/), [2023](https://www.sigsac.org/ccs/CCS2023/)
-  <!-- - Springer ACNS [2025](https://acns2025.fordaysec.de/) -->
+  - Springer ACNS [2025](https://acns2025.fordaysec.de/)
   - ACM SenSys [2022](http://sensys.acm.org/2022/)
   - IEEE MSN [2023](https://ieee-msn.org/2023/index.php)
 
