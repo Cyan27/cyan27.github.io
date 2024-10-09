@@ -44,6 +44,7 @@ My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) 
   - IEEE Internet of Things Journal (IoTJ)
   - IEEE Vehicular Technology Magazine (VTM)
   - IEEE Intelligent Transportation Systems Magazine (ITSM)
+  - IEEE Signal Processing Letters (XPL)
   - Information and Software Technology (INFSOF)
   - Cybersecurity
   - ACM IMWUT 2021

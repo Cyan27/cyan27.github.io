@@ -20,6 +20,8 @@ In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (T
 
 ## 2024  
 
+<!-- "Detecting Hidden Voice Recorders via ADC Electromagnetic Radiation" Ruochen Zhou, TOSN -->
+
 [**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**]()   
 Xinfeng Li, Kai Li, Yifan Zheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
 In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* (To appear) 
@@ -30,7 +32,7 @@ Xinfeng Li, Yuchen Yang, Jiangyi Deng, Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wenyua
 In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* (To appear) 
 <!-- Corresponding author -->
 
-[**Understanding Impacts Of Electromagnetic Signal Injection Attacks On Object Detection**](https://2024.ieeeicme.org/program/)   
+[**Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection**](https://2024.ieeeicme.org/program/)   
 Youqian Zhang, Chunxi Yang, Eugene Y Fu, Qinhong Jiang, Chen Yan, Sze-Yiu Chau, Grace Ngai, Hong-Va Leong, Xiapu Luo, Wenyuan Xu.   
 In *__ICME'2024__: IEEE International Conference on Multimedia and Expo, 2024* ([PDF](https://arxiv.org/pdf/2407.16327))
 
