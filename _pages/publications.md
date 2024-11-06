@@ -16,20 +16,22 @@ In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (T
 [**PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR**]()   
 Zizhi Jin, Qinhong Jiang, Xuancun Lu, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
 In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (To appear) 
-
+<!-- https://sites.google.com/view/phantomlidar -->
 
 ## 2024  
 
-<!-- "Detecting Hidden Voice Recorders via ADC Electromagnetic Radiation" Ruochen Zhou, TOSN -->
+[**Detecting Hidden Voice Recorders via ADC Electromagnetic Radiation**](https://dl.acm.org/doi/10.1145/3700595)   
+Ruochen Zhou, Xiaoyu Ji, Han Chen, Chen Yan, Wenyuan Xu.   
+In *__TOSN__: ACM Transactions on Sensor Networks* (Preprint)  
 
-[**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**]()   
+[**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**](https://www.sigsac.org/ccs/CCS2024/program/accepted-papers.html)   
 Xinfeng Li, Kai Li, Yifan Zheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
-In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* (To appear) 
+In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* ([PDF](https://safeearweb.github.io/Project/files/SafeEar_CCS2024.pdf), [Code](https://github.com/LetterLiGo/SafeEar), [Website](https://safeearweb.github.io/Project/), [Dataset](https://zenodo.org/records/11124319))  
 <!-- Corresponding author -->
 
-[**SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models**]()  
+[**SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models**](https://www.sigsac.org/ccs/CCS2024/program/accepted-papers.html)  
 Xinfeng Li, Yuchen Yang, Jiangyi Deng, Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wenyuan Xu.  
-In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* (To appear) 
+In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* ([PDF](https://arxiv.org/abs/2404.06666), [Code](https://github.com/LetterLiGo/SafeGen_CCS2024)) 
 <!-- Corresponding author -->
 
 [**Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection**](https://2024.ieeeicme.org/program/)   
@@ -42,11 +44,11 @@ In *__WWW'24__: The Web Conference, 2024* ([PDF](https://dl.acm.org/doi/pdf/10.1
 
 [**EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras**](https://www.ndss-symposium.org/ndss-paper/em-eye-characterizing-electromagnetic-side-channel-eavesdropping-on-embedded-cameras/)  
 Yan long, Qinhong Jiang, Chen Yan, Tobias Alam, Xiaoyu Ji, Wenyuan Xu, Kevin Fu.  
-In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2024-552-paper.pdf))  
+In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2024-552-paper.pdf), [Website](https://emeyeattack.github.io/Website/), [Code](https://github.com/longyan97/EMEye_Tutorial))  
 
 [**GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards**](https://www.ndss-symposium.org/ndss-paper/ghosttype-the-limits-of-using-contactless-electromagnetic-interference-to-inject-phantom-keys-into-analog-circuits-of-keyboards/)  
 Qinhong Jiang, Yanze Ren, Yan Long, Chen Yan, Yumai Sun, Xiaoyu Ji, Kevin Fu, Wenyuan Xu.  
-In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2024-15-paper.pdf)) 
+In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2024-15-paper.pdf), [Website](https://sites.google.com/view/ghosttype-demo)) 
 <!-- Corresponding author -->
 
 [**Inaudible Adversarial Perturbation: Manipulating the Recognition of User Speech in Real Time**](https://www.ndss-symposium.org/ndss-paper/inaudible-adversarial-perturbation-manipulating-the-recognition-of-user-speech-in-real-time/)  
