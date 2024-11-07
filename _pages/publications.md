@@ -11,12 +11,12 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 
 [**ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters**]()   
 Fengchen Yang, Zihao Dan, Kaikai Pan, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
-In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (To appear) 
+In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (To appear, [PDF](https://arxiv.org/pdf/2409.17873)) 
 
 [**PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR**]()   
 Zizhi Jin, Qinhong Jiang, Xuancun Lu, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
-In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (To appear) 
-<!-- https://sites.google.com/view/phantomlidar -->
+In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (To appear, [PDF](https://arxiv.org/pdf/2409.17907), [Website](https://sites.google.com/view/phantomlidar)) 
+
 
 ## 2024  
 
