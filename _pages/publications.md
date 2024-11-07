@@ -58,7 +58,21 @@ In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* ([
 
 [**Analyzing and Defending GhostTouch Attack against Capacitive Touchscreens**](https://www.computer.org/csdl/journal/tq/5555/01/10388405/1TCu7uGOkDK)  
 Kai Wang, Richard Mitev, Chen Yan, Xiaoyu Ji, Ahmad-Reza Sadeghi, Wenyuan Xu.  
-In *__TDSC__: IEEE Transactions on Dependable and Secure Computing* (Preprint)  
+In *__TDSC__: IEEE Transactions on Dependable and Secure Computing, 21:2024.05, 4360-4375, 2024* 
+
+[**Marionette: Manipulate Your Touchscreen via A Charging Cable**](https://www.computer.org/csdl/journal/tq/5555/01/10288382/1Rp0oY44cWA)  
+Yan Jiang, Xiaoyu Ji, Kai Wang, Chen Yan, Richard Mitev, Ahmad-Reza Sadeghi, Wenyuan Xu.  
+In *__TDSC__: IEEE Transactions on Dependable and Secure Computing, 21:2024.04, 3309-3323, 2024* 
+
+[**Enrollment-stage Backdoor Attacks on Speaker Recognition Systems via Adversarial Ultrasound**](https://ieeexplore.ieee.org/document/10301792)  
+Xinfeng Li, Junning Ze, Chen Yan, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu.  
+In *__IoTJ__: IEEE Internet of Things Journal, 11:8, 13108-13124, 2024*  
+<!-- Corresponding author -->
+
+[**Towards Pitch-Insensitive Speaker Verification via Soundfield**](https://ieeexplore.ieee.org/document/10164637)  
+Xinfeng Li, Zhicong Zheng, Chen Yan, Chaohao Li, Xiaoyu Ji, Wenyuan Xu.  
+In *__IoTJ__: IEEE Internet of Things Journal, 11:1, 1175-1189, 2024*   
+<!-- Corresponding author -->
 
 
 ## 2023
@@ -70,20 +84,6 @@ In *__CCS'23__: ACM Conference on Computer and Communications Security, 2023* ([
 [**The Silent Manipulator: A Practical and Inaudible Backdoor Attack against Speech Recognition Systems**](https://dl.acm.org/doi/abs/10.1145/3581783.3613843)  
 Zhicong Zheng, Xinfeng Li, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
 In *__MM'23__: The 31st ACM International Conference on Multimedia, 2023* ([PDF](https://dl.acm.org/doi/pdf/10.1145/3581783.3613843))  
-<!-- Corresponding author -->
-
-[**Marionette: Manipulate Your Touchscreen via A Charging Cable**](https://www.computer.org/csdl/journal/tq/5555/01/10288382/1Rp0oY44cWA)  
-Yan Jiang, Xiaoyu Ji, Kai Wang, Chen Yan, Richard Mitev, Ahmad-Reza Sadeghi, Wenyuan Xu.  
-In *__TDSC__: IEEE Transactions on Dependable and Secure Computing* (Preprint)  
-
-[**Enrollment-stage Backdoor Attacks on Speaker Recognition Systems via Adversarial Ultrasound**](https://ieeexplore.ieee.org/document/10301792)  
-Xinfeng Li, Junning Ze, Chen Yan, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu.  
-In *__IoTJ__: IEEE Internet of Things Journal, 11:8, 13108-13124, 2024*  
-<!-- Corresponding author -->
-
-[**Towards Pitch-Insensitive Speaker Verification via Soundfield**](https://ieeexplore.ieee.org/document/10164637)  
-Xinfeng Li, Zhicong Zheng, Chen Yan, Chaohao Li, Xiaoyu Ji, Wenyuan Xu.  
-In *__IoTJ__: IEEE Internet of Things Journal, 11:1, 1175-1189, 2024*   
 <!-- Corresponding author -->
 
 [**BitDance: Manipulating UART Serial Communication with IEMI**](https://dl.acm.org/doi/10.1145/3607199.3607249)  
@@ -140,6 +140,10 @@ In *__CSUR__: ACM Computing Surveys, 55:4, 1-36, 2022* ([PDF](/files/articles/22
 Wenyuan Xu, Shize Guo, Xiaoyu Ji, and Chen Yan.  
 In *__CCCF__: 中国计算机学会通讯, 18:2, 46-52, 2022* ([PDF](/files/articles/22CCCF-out-of-band.pdf))
 
+[**A Nonlinearity-based Secure Face-to-Face Device Authentication for Mobile Devices**](https://ieeexplore.ieee.org/document/9200789)  
+Xiaoyu Ji, Xinyan Zhou, Chen Yan, Jiangyi Deng, Wenyuan Xu.   
+In *__TMC__: IEEE Transactions on Mobile Computing, 21:4, 1155-1171, 2022* ([PDF](/files/articles/20TMC-Nonlinearity.pdf))
+
 
 ## 2021
 
@@ -147,12 +151,11 @@ In *__CCCF__: 中国计算机学会通讯, 18:2, 46-52, 2022* ([PDF](/files/arti
 Xiaoyu Ji, Yushi Cheng, Yuepeng Zhang, Kai Wang, Chen Yan, Kevin Fu, Wenyuan Xu.   
 In *__Oakland'21__: IEEE Symposium on Security and Privacy, 2021* ([PDF](/files/articles/21Oakland-Poltergeist.pdf), [Webpage](https://github.com/USSLab/PoltergeistAttack), [Talk Video](https://www.youtube.com/watch?v=PN7q0Wk4R80), [Teaser Video](https://www.youtube.com/watch?v=Aqu7JSjBdrk))
 
+[**The Feasibility of Injecting Inaudible Voice Commands to Voice Assistants**](https://ieeexplore.ieee.org/document/8669818)  
+Chen Yan, Guoming Zhang, Xiaoyu Ji, Tianchen Zhang, Taimin Zhang, Wenyuan Xu.   
+In *__TDSC__: IEEE Transactions on Dependable and Secure Computing, 18:3, 1108-1124, 2021* ([PDF](/files/articles/19TDSC-DolphinAttack.pdf))
 
 ## 2020
-
-[**A Nonlinearity-based Secure Face-to-Face Device Authentication for Mobile Devices**](https://ieeexplore.ieee.org/document/9200789)  
-Xiaoyu Ji, Xinyan Zhou, Chen Yan, Jiangyi Deng, Wenyuan Xu.   
-In *__TMC__: IEEE Transactions on Mobile Computing, 21:4, 1155-1171, 2022* ([PDF](/files/articles/20TMC-Nonlinearity.pdf))
 
 [**SoK: A Minimalist Approach to Formalizing Analog Sensor Security**](https://ieeexplore.ieee.org/document/9152711)   
 Chen Yan, Hocheol Shin, Connor Bolton, Wenyuan Xu, Yongdae Kim, Kevin Fu.   
@@ -164,10 +167,6 @@ In *__Oakland'20__: IEEE Symposium on Security and Privacy, 2020* ([PDF](/files/
 [**The Catcher in the Field: A Fieldprint based Spoofing Detection for Text-Independent Speaker Verification**](https://dl.acm.org/doi/10.1145/3319535.3354248)  
 Chen Yan, Yan Long, Xiaoyu Ji, Wenyuan Xu.   
 In *__CCS'19__: ACM Conference on Computer and Communications Security, 2019* ([PDF](/files/articles/19CCS-Cafield.pdf), [Slides](/files/slides/19CCS-Cafield-slides.pdf), [Webpage](https://github.com/USSLab/CaField))
-
-[**The Feasibility of Injecting Inaudible Voice Commands to Voice Assistants**](https://ieeexplore.ieee.org/document/8669818)  
-Chen Yan, Guoming Zhang, Xiaoyu Ji, Tianchen Zhang, Taimin Zhang, Wenyuan Xu.   
-In *__TDSC__: IEEE Transactions on Dependable and Secure Computing, 18:3, 1108-1124, 2021* ([PDF](/files/articles/19TDSC-DolphinAttack.pdf))
 
 [**NAuth: Secure Face-to-Face Device Authentication via Nonlinearity**](https://ieeexplore.ieee.org/abstract/document/8737572/)  
 Xinyan Zhou, Xiaoyu Ji, Chen Yan, Jiangyi Deng, Wenyuan Xu.  
