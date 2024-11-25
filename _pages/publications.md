@@ -9,6 +9,16 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 
 ## 2025
 
+[**GhostShot: Manipulating the Image of CCD Cameras with Electromagnetic Interference**]()   
+Yanze Ren, Qinhong Jiang, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
+In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (To appear)   
+<!-- Corresponding author -->
+
+[**LightAntenna: Characterizing the Limits of Fluorescent Lamp-Induced Electromagnetic Interference**]()   
+Fengchen Yang, Wenze Cui, Xinfeng Li, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
+In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (To appear)  
+<!-- Corresponding author -->
+
 [**ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters**]()   
 Fengchen Yang, Zihao Dan, Kaikai Pan, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
 In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (To appear, [PDF](https://arxiv.org/pdf/2409.17873)) 
@@ -20,9 +30,12 @@ In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (T
 
 ## 2024  
 
+<!-- "Laser-based LiDAR Spoofing: Effects Validation, Capability Quantification, and Countermeasures"
+Xiaoyu Ji, Jin, Zizhi; Ji, Xiaoyu; Cheng, Yushi; Yang, Bo; Yan, Chen; Xu, Wenyuan -->
+
 [**Detecting Hidden Voice Recorders via ADC Electromagnetic Radiation**](https://dl.acm.org/doi/10.1145/3700595)   
 Ruochen Zhou, Xiaoyu Ji, Han Chen, Chen Yan, Wenyuan Xu.   
-In *__TOSN__: ACM Transactions on Sensor Networks* (Preprint)  
+In *__TOSN__: ACM Transactions on Sensor Networks, 20:6, 1-26, 2024* 
 
 [**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**](https://www.sigsac.org/ccs/CCS2024/program/accepted-papers.html)   
 Xinfeng Li, Kai Li, Yifan Zheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
