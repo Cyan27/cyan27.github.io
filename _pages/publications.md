@@ -30,8 +30,10 @@ In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (T
 
 ## 2024  
 
-<!-- "Laser-based LiDAR Spoofing: Effects Validation, Capability Quantification, and Countermeasures"
-Xiaoyu Ji, Jin, Zizhi; Ji, Xiaoyu; Cheng, Yushi; Yang, Bo; Yan, Chen; Xu, Wenyuan -->
+[**Laser-based LiDAR Spoofing: Effects Validation, Capability Quantification, and Countermeasures**](https://ieeexplore.ieee.org/abstract/document/10771740/)   
+Zizhi Jin, Xiaoyu Ji, Yushi Cheng, Bo Yang, Chen Yan, Wenyuan Xu.  
+In *__IoTJ__: IEEE Internet of Things Journal, 2024* (Preprint)
+
 
 [**Detecting Hidden Voice Recorders via ADC Electromagnetic Radiation**](https://dl.acm.org/doi/10.1145/3700595)   
 Ruochen Zhou, Xiaoyu Ji, Han Chen, Chen Yan, Wenyuan Xu.   
