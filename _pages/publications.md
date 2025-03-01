@@ -25,7 +25,7 @@ In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* ([
 
 [**ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters**](https://www.ndss-symposium.org/ndss-paper/rethink-reveal-the-threat-of-electromagnetic-interference-on-power-inverters/)   
 Fengchen Yang, Zihao Dan, Kaikai Pan, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
-In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-691-paper.pdf), [Demo](https://www.youtube.com/playlist?list=PL7ldu25dIDfWLS6m_1I255OkboXiJisKN)) 
+In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-691-paper.pdf), [Demo](https://www.youtube.com/playlist?list=PL7ldu25dIDfWLS6m_1I255OkboXiJisKN))   
 <img src="/images/award1.png" width="25"> **Distinguished Paper Award**
 
 [**PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR**](https://www.ndss-symposium.org/ndss-paper/phantomlidar-cross-modality-signal-injection-attacks-against-lidar/)   
