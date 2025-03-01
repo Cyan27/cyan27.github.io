@@ -20,13 +20,12 @@ In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* ([
 
 [**LightAntenna: Characterizing the Limits of Fluorescent Lamp-Induced Electromagnetic Interference**](https://www.ndss-symposium.org/ndss-paper/lightantenna-characterizing-the-limits-of-fluorescent-lamp-induced-electromagnetic-interference/)   
 Fengchen Yang, Wenze Cui, Xinfeng Li, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
-In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-2334-paper.pdf), [Demo](https://sites.google.com/view/ligntantenna/))  
+In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-2334-paper.pdf), [Website](https://sites.google.com/view/ligntantenna/))  
 <!-- Corresponding author -->
 
 [**ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters**](https://www.ndss-symposium.org/ndss-paper/rethink-reveal-the-threat-of-electromagnetic-interference-on-power-inverters/)   
 Fengchen Yang, Zihao Dan, Kaikai Pan, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
 In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-691-paper.pdf), [Demo](https://www.youtube.com/playlist?list=PL7ldu25dIDfWLS6m_1I255OkboXiJisKN)) 
-
 <img src="/images/award1.png" width="25"> **Distinguished Paper Award**
 
 [**PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR**](https://www.ndss-symposium.org/ndss-paper/phantomlidar-cross-modality-signal-injection-attacks-against-lidar/)   
@@ -56,7 +55,7 @@ In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* ([
 
 [**Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection**](https://2024.ieeeicme.org/program/)   
 Youqian Zhang, Chunxi Yang, Eugene Y Fu, Qinhong Jiang, Chen Yan, Sze-Yiu Chau, Grace Ngai, Hong-Va Leong, Xiapu Luo, Wenyuan Xu.   
-In *__ICME'2024__: IEEE International Conference on Multimedia and Expo, 2024* ([PDF](https://arxiv.org/pdf/2407.16327))
+In *__ICME'24__: IEEE International Conference on Multimedia and Expo, 2024* ([PDF](https://arxiv.org/pdf/2407.16327))
 
 [**Unity is Strength? Benchmarking the Robustness of Fusion-based 3D Object Detection against Physical Sensor Attack**](https://dl.acm.org/doi/10.1145/3589334.3645612)  
 Zizhi Jin, Xuancun Lu, Bo Yang, Yushi Cheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
