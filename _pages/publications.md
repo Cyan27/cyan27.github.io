@@ -34,7 +34,7 @@ In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* ([
 
 [**Laser-based LiDAR Spoofing: Effects Validation, Capability Quantification, and Countermeasures**](https://ieeexplore.ieee.org/abstract/document/10771740/)   
 Zizhi Jin, Xiaoyu Ji, Yushi Cheng, Bo Yang, Chen Yan, Wenyuan Xu.  
-In *__IoTJ__: IEEE Internet of Things Journal, 12:2, 2025, 1165-1181*
+In *__IoTJ__: IEEE Internet of Things Journal, 12:2, 1165-1181, 2025*
 
 
 ## 2024  
