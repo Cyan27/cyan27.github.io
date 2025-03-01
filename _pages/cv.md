@@ -15,6 +15,7 @@ My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) 
 
 - **Academic**
   - **Doctoral Dissertation Award** @ ACM China 2021
+  - **Distinguished Paper Award** @ NDSS 2025
   - **Best Paper Award** @ ACM CCS 2017
   - **Scholarship for Outstanding Doctoral Candidates** @ Zhejiang University 2019
   - **Student Travel Award** @ ACM CCS 2019, CHES 2016, AsiaCCS 2016
@@ -45,6 +46,7 @@ My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) 
   - IEEE Vehicular Technology Magazine (VTM)
   - IEEE Intelligent Transportation Systems Magazine (ITSM)
   - IEEE Signal Processing Letters (XPL)
+  - ACM Transactions on Sensor Networks (TOSN)
   - Information and Software Technology (INFSOF)
   - Cybersecurity
   - ACM IMWUT 2021

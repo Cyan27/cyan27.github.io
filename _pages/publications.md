@@ -9,44 +9,49 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 
 ## 2025
 
-[**GhostShot: Manipulating the Image of CCD Cameras with Electromagnetic Interference**]()   
+[**Systematic Security Analysis of Sensors and Controls in PV Inverters: Threat Validation and Countermeasures**](https://www.mdpi.com/1424-8220/25/5/1493)   
+Fengchen Yang, Kaikai Pan, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
+In *__Sensors__: Sensors Journal, 25:5, 1-36, 2025* ([PDF](/files/articles/25Sensors-Rethink.pdf))   
+
+[**GhostShot: Manipulating the Image of CCD Cameras with Electromagnetic Interference**](https://www.ndss-symposium.org/ndss-paper/ghostshot-manipulating-the-image-of-ccd-cameras-with-electromagnetic-interference/)   
 Yanze Ren, Qinhong Jiang, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
-In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (To appear)   
+In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-2065-paper.pdf))   
 <!-- Corresponding author -->
 
-[**LightAntenna: Characterizing the Limits of Fluorescent Lamp-Induced Electromagnetic Interference**]()   
+[**LightAntenna: Characterizing the Limits of Fluorescent Lamp-Induced Electromagnetic Interference**](https://www.ndss-symposium.org/ndss-paper/lightantenna-characterizing-the-limits-of-fluorescent-lamp-induced-electromagnetic-interference/)   
 Fengchen Yang, Wenze Cui, Xinfeng Li, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
-In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (To appear)  
+In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-2334-paper.pdf), [Demo](https://sites.google.com/view/ligntantenna/))  
 <!-- Corresponding author -->
 
-[**ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters**]()   
+[**ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters**](https://www.ndss-symposium.org/ndss-paper/rethink-reveal-the-threat-of-electromagnetic-interference-on-power-inverters/)   
 Fengchen Yang, Zihao Dan, Kaikai Pan, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
-In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (To appear, [PDF](https://arxiv.org/pdf/2409.17873)) 
+In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-691-paper.pdf), [Demo](https://www.youtube.com/playlist?list=PL7ldu25dIDfWLS6m_1I255OkboXiJisKN)) 
 
-[**PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR**]()   
+<img src="/images/award1.png" width="25"> **Distinguished Paper Award**
+
+[**PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR**](https://www.ndss-symposium.org/ndss-paper/phantomlidar-cross-modality-signal-injection-attacks-against-lidar/)   
 Zizhi Jin, Qinhong Jiang, Xuancun Lu, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
-In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* (To appear, [PDF](https://arxiv.org/pdf/2409.17907), [Website](https://sites.google.com/view/phantomlidar)) 
-
-
-## 2024  
+In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-997-paper.pdf), [Website](https://sites.google.com/view/phantomlidar)) 
 
 [**Laser-based LiDAR Spoofing: Effects Validation, Capability Quantification, and Countermeasures**](https://ieeexplore.ieee.org/abstract/document/10771740/)   
 Zizhi Jin, Xiaoyu Ji, Yushi Cheng, Bo Yang, Chen Yan, Wenyuan Xu.  
-In *__IoTJ__: IEEE Internet of Things Journal, 2024* (Preprint)
+In *__IoTJ__: IEEE Internet of Things Journal, 12:2, 2025, 1165-1181*
 
+
+## 2024  
 
 [**Detecting Hidden Voice Recorders via ADC Electromagnetic Radiation**](https://dl.acm.org/doi/10.1145/3700595)   
 Ruochen Zhou, Xiaoyu Ji, Han Chen, Chen Yan, Wenyuan Xu.   
 In *__TOSN__: ACM Transactions on Sensor Networks, 20:6, 1-26, 2024* 
 
-[**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**](https://www.sigsac.org/ccs/CCS2024/program/accepted-papers.html)   
+[**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**](https://dl.acm.org/doi/10.1145/3658644.3670285)   
 Xinfeng Li, Kai Li, Yifan Zheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
-In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* ([PDF](https://safeearweb.github.io/Project/files/SafeEar_CCS2024.pdf), [Code](https://github.com/LetterLiGo/SafeEar), [Website](https://safeearweb.github.io/Project/), [Dataset](https://zenodo.org/records/11124319))  
+In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* ([PDF](https://safeearweb.github.io/Project/files/SafeEar_CCS2024.pdf), [Code](https://github.com/LetterLiGo/SafeEar), [Website](https://safeearweb.github.io/Project/), [Dataset](https://zenodo.org/records/14062964))  
 <!-- Corresponding author -->
 
-[**SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models**](https://www.sigsac.org/ccs/CCS2024/program/accepted-papers.html)  
+[**SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models**](https://dl.acm.org/doi/10.1145/3658644.3670295)  
 Xinfeng Li, Yuchen Yang, Jiangyi Deng, Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wenyuan Xu.  
-In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* ([PDF](https://arxiv.org/abs/2404.06666), [Code](https://github.com/LetterLiGo/SafeGen_CCS2024)) 
+In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* ([PDF](https://arxiv.org/abs/2404.06666), [Code](https://github.com/LetterLiGo/SafeGen_CCS2024), [Pretrained Model](https://huggingface.co/LetterJohn/SafeGen-Pretrained-Weights)) 
 <!-- Corresponding author -->
 
 [**Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection**](https://2024.ieeeicme.org/program/)   
@@ -58,7 +63,7 @@ Zizhi Jin, Xuancun Lu, Bo Yang, Yushi Cheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu.
 In *__WWW'24__: The Web Conference, 2024* ([PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645612))
 
 [**EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras**](https://www.ndss-symposium.org/ndss-paper/em-eye-characterizing-electromagnetic-side-channel-eavesdropping-on-embedded-cameras/)  
-Yan long, Qinhong Jiang, Chen Yan, Tobias Alam, Xiaoyu Ji, Wenyuan Xu, Kevin Fu.  
+Yan Long, Qinhong Jiang, Chen Yan, Tobias Alam, Xiaoyu Ji, Wenyuan Xu, Kevin Fu.  
 In *__NDSS'24__: The Network and Distributed System Security Symposium, 2024* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2024-552-paper.pdf), [Website](https://emeyeattack.github.io/Website/), [Code](https://github.com/longyan97/EMEye_Tutorial))  
 
 [**GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards**](https://www.ndss-symposium.org/ndss-paper/ghosttype-the-limits-of-using-contactless-electromagnetic-interference-to-inject-phantom-keys-into-analog-circuits-of-keyboards/)  
