@@ -46,6 +46,7 @@ My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) 
   - IEEE Vehicular Technology Magazine (VTM)
   - IEEE Intelligent Transportation Systems Magazine (ITSM)
   - IEEE Signal Processing Letters (XPL)
+  - IEEE Access
   - ACM Transactions on Sensor Networks (TOSN)
   - Information and Software Technology (INFSOF)
   - Cybersecurity
