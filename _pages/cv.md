@@ -47,10 +47,12 @@ My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) 
   - IEEE Intelligent Transportation Systems Magazine (ITSM)
   - IEEE Signal Processing Letters (XPL)
   - IEEE Access
+  - IEEE Sensors 2019
   - ACM Transactions on Sensor Networks (TOSN)
+  - ACM IMWUT 2021
   - Information and Software Technology (INFSOF)
   - Cybersecurity
-  - ACM IMWUT 2021
-  - IEEE Sensors 2019
+  - Cyberpsychology: Journal of Psychosocial Research on Cyberspace
+ 
 
 

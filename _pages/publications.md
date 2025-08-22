@@ -7,7 +7,18 @@ author_profile: true
 
 My articles are also available on my [Google Scholar profile](https://scholar.google.com/citations?user=qhaLpw8AAAAJ&hl=en&oi=sra).
 
+## 2026
+
+[**SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities**]()   
+Shilin Xiao, Wenjun Zhu, Yan Jiang, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
+In *__NDSS'26__: The Network and Distributed System Security Symposium, 2026* (to appear)   
+
+
 ## 2025
+
+[**具身智能安全治理**](https://cstr.cn/32128.14.CASbulletin.20250218002)   
+Wenyuan Xu, Xiaoyu Ji, Chen Yan, Yushi Cheng.  
+In *__BCAS__: 中国科学院院刊 (Bulletin of Chinese Academy of Sciences), 40:3, 429-439, 2025* ([PDF](blob:http://www.bulletin.cas.cn/c3119acc-69b6-4ab7-a720-4ad9f6f88269))   
 
 [**Systematic Security Analysis of Sensors and Controls in PV Inverters: Threat Validation and Countermeasures**](https://www.mdpi.com/1424-8220/25/5/1493)   
 Fengchen Yang, Kaikai Pan, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
