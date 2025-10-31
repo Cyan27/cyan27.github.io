@@ -11,10 +11,14 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 
 [**SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities**]()   
 Shilin Xiao, Wenjun Zhu, Yan Jiang, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
-In *__NDSS'26__: The Network and Distributed System Security Symposium, 2026* (to appear)   
+In *__NDSS'26__: The Network and Distributed System Security Symposium, 2026* (to appear, [Preprint](https://arxiv.org/abs/2508.16133))   
 
 
 ## 2025
+
+[**Critical Information Only: A Content Privacy-Preserving Framework for Detecting Audio Deepfakes**](https://ieeexplore.ieee.org/document/11216043)   
+Xinfeng Li, Yifan Zheng, Chen Yan, Kai Li, Chang Zeng, Xiaoyu Ji, Wenyuan Xu.  
+In *__TDSC__: IEEE Transactions on Dependable and Secure Computing* (Early Access) 
 
 [**具身智能安全治理**](https://cstr.cn/32128.14.CASbulletin.20250218002)   
 Wenyuan Xu, Xiaoyu Ji, Chen Yan, Yushi Cheng.  
