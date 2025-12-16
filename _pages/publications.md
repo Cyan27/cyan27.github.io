@@ -9,6 +9,11 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 
 ## 2026
 
+[**PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing**]()   
+Zhicong Zheng, Jinghui Wu, Shilin Xiao, Yanze Ren, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
+In *__NDSS'26__: The Network and Distributed System Security Symposium, 2026* (to appear) 
+<!-- Corresponding author -->
+
 [**SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities**]()   
 Shilin Xiao, Wenjun Zhu, Yan Jiang, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
 In *__NDSS'26__: The Network and Distributed System Security Symposium, 2026* (to appear, [Preprint](https://arxiv.org/abs/2508.16133))   
@@ -19,6 +24,7 @@ In *__NDSS'26__: The Network and Distributed System Security Symposium, 2026* (t
 [**Critical Information Only: A Content Privacy-Preserving Framework for Detecting Audio Deepfakes**](https://ieeexplore.ieee.org/document/11216043)   
 Xinfeng Li, Yifan Zheng, Chen Yan, Kai Li, Chang Zeng, Xiaoyu Ji, Wenyuan Xu.  
 In *__TDSC__: IEEE Transactions on Dependable and Secure Computing* (Early Access) 
+<!-- Corresponding author -->
 
 [**具身智能安全治理**](https://cstr.cn/32128.14.CASbulletin.20250218002)   
 Wenyuan Xu, Xiaoyu Ji, Chen Yan, Yushi Cheng.  
