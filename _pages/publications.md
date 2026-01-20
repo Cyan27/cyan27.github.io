@@ -9,6 +9,11 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 
 ## 2026
 
+[**SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks**]()   
+Qinhong Jiang, Yan Long, Youqian Zhang, Chen Yan, Xiaoyu Ji, Xiapu Luo, Kevin Fu, Jiannong Cao, Wenyuan Xu.   
+In *__SEC'26__: USENIX Security Symposium, 2026* (to appear) 
+<!-- Corresponding author -->
+
 [**PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing**]()   
 Zhicong Zheng, Jinghui Wu, Shilin Xiao, Yanze Ren, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
 In *__NDSS'26__: The Network and Distributed System Security Symposium, 2026* (to appear) 
@@ -41,7 +46,7 @@ In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* ([
 
 [**LightAntenna: Characterizing the Limits of Fluorescent Lamp-Induced Electromagnetic Interference**](https://www.ndss-symposium.org/ndss-paper/lightantenna-characterizing-the-limits-of-fluorescent-lamp-induced-electromagnetic-interference/)   
 Fengchen Yang, Wenze Cui, Xinfeng Li, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
-In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-2334-paper.pdf), [Website](https://sites.google.com/view/ligntantenna/), [Slides](https://www.ndss-symposium.org/wp-content/uploads/8B-f2334-yang.pdf))  
+In *__NDSS'25__: The Network and Distributed System Security Symposium, 2025* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-2334-paper.pdf), [Slides](https://www.ndss-symposium.org/wp-content/uploads/8B-f2334-yang.pdf), [Website](https://sites.google.com/view/ligntantenna/))  
 <!-- Corresponding author -->
 
 [**ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters**](https://www.ndss-symposium.org/ndss-paper/rethink-reveal-the-threat-of-electromagnetic-interference-on-power-inverters/)   
