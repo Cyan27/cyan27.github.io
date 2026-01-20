@@ -71,7 +71,7 @@ In *__TOSN__: ACM Transactions on Sensor Networks, 20:6, 1-26, 2024*
 
 [**具身智能安全及其治理**](https://lib.cqvip.com/Qikan/Article/Detail?id=7200036317)   
 Wenyuan Xu, Xiaoyu Ji, Chen Yan, Yanjiao Chen.  
-In *科技总览 (IEEE Spectrum 中文版), 10, 60-63, 2024*    
+In *科技纵览 (IEEE Spectrum 中文版), 10, 60-63, 2024*    
 
 [**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**](https://dl.acm.org/doi/10.1145/3658644.3670285)   
 Xinfeng Li, Kai Li, Yifan Zheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
