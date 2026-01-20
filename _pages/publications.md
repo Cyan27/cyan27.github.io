@@ -69,6 +69,10 @@ In *__IoTJ__: IEEE Internet of Things Journal, 12:2, 1165-1181, 2025*
 Ruochen Zhou, Xiaoyu Ji, Han Chen, Chen Yan, Wenyuan Xu.   
 In *__TOSN__: ACM Transactions on Sensor Networks, 20:6, 1-26, 2024* 
 
+[**具身智能安全及其治理**](https://lib.cqvip.com/Qikan/Article/Detail?id=7200036317)   
+Wenyuan Xu, Xiaoyu Ji, Chen Yan, Yanjiao Chen.  
+In *科技总览 (IEEE Spectrum 中文版), 10, 60-63, 2024*    
+
 [**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**](https://dl.acm.org/doi/10.1145/3658644.3670285)   
 Xinfeng Li, Kai Li, Yifan Zheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
 In *__CCS'24__: ACM Conference on Computer and Communications Security, 2024* ([PDF](https://safeearweb.github.io/Project/files/SafeEar_CCS2024.pdf), [Code](https://github.com/LetterLiGo/SafeEar), [Website](https://safeearweb.github.io/Project/), [Dataset](https://zenodo.org/records/14062964))  
