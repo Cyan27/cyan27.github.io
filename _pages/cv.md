@@ -36,6 +36,9 @@ My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) 
   - ACM SenSys [2022](http://sensys.acm.org/2022/)
   - IEEE MSN [2023](https://ieee-msn.org/2023/index.php)
 
+- **Guest Editor**
+  - Sensors Journal - Special Issue [“Sensor Security and Beyond”](https://www.mdpi.com/journal/sensors/special_issues/2C4470DI1P)
+
 - **Reviewer**
   - IEEE Transactions on Dependable and Secure Computing (TDSC)
   - IEEE Transactions on Information Forensics and Security (TIFS)
