@@ -9,19 +9,27 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 
 ## 2026
 
+<!-- VoltSiren: Exploiting Power Supply Vulnerabilities to Control IoT Devices
+IoTJ -->
+
+[**Physical Adversarial Examples through Camera Power Signal Injection**]()  
+Yanze Ren, Mingyuan Lv, Qinhong Jiang, Yan Jiang, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
+In *__CVPR'26__: The IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026* (to appear) 
+<!-- Corresponding author -->
+
 [**SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks**]()   
 Qinhong Jiang, Yan Long, Youqian Zhang, Chen Yan, Xiaoyu Ji, Xiapu Luo, Kevin Fu, Jiannong Cao, Wenyuan Xu.   
 In *__SEC'26__: USENIX Security Symposium, 2026* (to appear) 
 <!-- Corresponding author -->
 
-[**PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing**]()   
+[**PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing**](https://www.ndss-symposium.org/ndss-paper/phyfuzz-detecting-sensor-vulnerabilities-with-physical-signal-fuzzing/)   
 Zhicong Zheng, Jinghui Wu, Shilin Xiao, Yanze Ren, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
-In *__NDSS'26__: The Network and Distributed System Security Symposium, 2026* (to appear) 
+In *__NDSS'26__: The Network and Distributed System Security Symposium, 2026* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2026-f29-paper.pdf)) 
 <!-- Corresponding author -->
 
-[**SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities**]()   
+[**SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities**](https://www.ndss-symposium.org/ndss-paper/sok-understanding-the-fundamentals-and-implications-of-sensor-out-of-band-vulnerabilities/)   
 Shilin Xiao, Wenjun Zhu, Yan Jiang, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
-In *__NDSS'26__: The Network and Distributed System Security Symposium, 2026* (to appear, [Preprint](https://arxiv.org/abs/2508.16133))   
+In *__NDSS'26__: The Network and Distributed System Security Symposium, 2026* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2026-s450-paper.pdf))   
 
 
 ## 2025
