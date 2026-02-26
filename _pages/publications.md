@@ -9,8 +9,9 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 
 ## 2026
 
-<!-- VoltSiren: Exploiting Power Supply Vulnerabilities to Control IoT Devices
-IoTJ -->
+[**VoltSiren: Exploiting Power Supply Vulnerabilities to Control IoT Devices**](https://ieeexplore.ieee.org/document/11411801)    
+Kai Wang, Shilin Xiao, Pengzhan Chen, Xiaoyu Ji, Chen Yan, Ruochen Zhou, Kaixiang Zhang, Wenyuan Xu.   
+In *__IoTJ__: IEEE Internet of Things Journal* (Early access)
 
 [**Physical Adversarial Examples through Camera Power Signal Injection**]()  
 Yanze Ren, Mingyuan Lv, Qinhong Jiang, Yan Jiang, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
@@ -41,7 +42,7 @@ In *__TDSC__: IEEE Transactions on Dependable and Secure Computing* (Early Acces
 
 [**具身智能安全治理**](https://cstr.cn/32128.14.CASbulletin.20250218002)   
 Wenyuan Xu, Xiaoyu Ji, Chen Yan, Yushi Cheng.  
-In *__BCAS__: 中国科学院院刊 (Bulletin of Chinese Academy of Sciences), 40:3, 429-439, 2025* ([PDF](blob:http://www.bulletin.cas.cn/c3119acc-69b6-4ab7-a720-4ad9f6f88269))   
+In *__BCAS__: 中国科学院院刊 (Bulletin of Chinese Academy of Sciences), 40:3, 429-439, 2025* ([PDF](/files/articles/25BCAS.pdf))   
 
 [**Systematic Security Analysis of Sensors and Controls in PV Inverters: Threat Validation and Countermeasures**](https://www.mdpi.com/1424-8220/25/5/1493)   
 Fengchen Yang, Kaikai Pan, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
