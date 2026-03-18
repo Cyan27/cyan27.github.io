@@ -20,7 +20,7 @@ In *__CVPR'26__: The IEEE/CVF Conference on Computer Vision and Pattern Recognit
 
 [**SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks**]()   
 Qinhong Jiang, Yan Long, Youqian Zhang, Chen Yan, Xiaoyu Ji, Xiapu Luo, Kevin Fu, Jiannong Cao, Wenyuan Xu.   
-In *__SEC'26__: USENIX Security Symposium, 2026* (to appear) 
+In *__SEC'26__: USENIX Security Symposium, 2026* ([PDF](/files/articles/26SEC-SoK-IEMI.pdf))   
 <!-- Corresponding author -->
 
 [**PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing**](https://www.ndss-symposium.org/ndss-paper/phyfuzz-detecting-sensor-vulnerabilities-with-physical-signal-fuzzing/)   
