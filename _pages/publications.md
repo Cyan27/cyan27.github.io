@@ -9,6 +9,10 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 
 ## 2026
 
+[**Cybersecurity vulnerabilities in IoT devices**](https://www.nature.com/articles/s44287-026-00296-5)    
+Chen Yan, Xiaoyu Ji, Qinhong Jiang, Kai Wang, Xintong Wang, Wenjun Zhu, Shilin Xiao, Xinfeng Li, Wenyuan Xu.   
+In *__Nature__: Nature Reviews Electrical Engineering*
+
 [**VoltSiren: Exploiting Power Supply Vulnerabilities to Control IoT Devices**](https://ieeexplore.ieee.org/document/11411801)    
 Kai Wang, Shilin Xiao, Pengzhan Chen, Xiaoyu Ji, Chen Yan, Ruochen Zhou, Kaixiang Zhang, Wenyuan Xu.   
 In *__IoTJ__: IEEE Internet of Things Journal* (Early access)
