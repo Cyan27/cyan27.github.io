@@ -15,7 +15,7 @@ In *__Nature__: Nature Reviews Electrical Engineering*
 
 [**VoltSiren: Exploiting Power Supply Vulnerabilities to Control IoT Devices**](https://ieeexplore.ieee.org/document/11411801)    
 Kai Wang, Shilin Xiao, Pengzhan Chen, Xiaoyu Ji, Chen Yan, Ruochen Zhou, Kaixiang Zhang, Wenyuan Xu.   
-In *__IoTJ__: IEEE Internet of Things Journal* (Early access)
+In *__IoTJ__: IEEE Internet of Things Journal, 13:11, 23146-23161, 2026* 
 
 [**Physical Adversarial Examples through Camera Power Signal Injection**]()  
 Yanze Ren, Mingyuan Lv, Qinhong Jiang, Yan Jiang, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
@@ -41,7 +41,7 @@ In *__NDSS'26__: The Network and Distributed System Security Symposium, 2026* ([
 
 [**Critical Information Only: A Content Privacy-Preserving Framework for Detecting Audio Deepfakes**](https://ieeexplore.ieee.org/document/11216043)   
 Xinfeng Li, Yifan Zheng, Chen Yan, Kai Li, Chang Zeng, Xiaoyu Ji, Wenyuan Xu.  
-In *__TDSC__: IEEE Transactions on Dependable and Secure Computing* (Early Access) 
+In *__TDSC__: IEEE Transactions on Dependable and Secure Computing, 23:2, 2165-2182, 2026* 
 <!-- Corresponding author -->
 
 [**具身智能安全治理**](https://cstr.cn/32128.14.CASbulletin.20250218002)   
