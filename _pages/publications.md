@@ -11,7 +11,7 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 
 [**Cybersecurity vulnerabilities in IoT devices**](https://www.nature.com/articles/s44287-026-00296-5)    
 Chen Yan, Xiaoyu Ji, Qinhong Jiang, Kai Wang, Xintong Wang, Wenjun Zhu, Shilin Xiao, Xinfeng Li, Wenyuan Xu.   
-In *__Nature__: Nature Reviews Electrical Engineering*
+In *__Nature__: Nature Reviews Electrical Engineering, 2026*
 
 [**VoltSiren: Exploiting Power Supply Vulnerabilities to Control IoT Devices**](https://ieeexplore.ieee.org/document/11411801)    
 Kai Wang, Shilin Xiao, Pengzhan Chen, Xiaoyu Ji, Chen Yan, Ruochen Zhou, Kaixiang Zhang, Wenyuan Xu.   
@@ -24,7 +24,7 @@ In *__CVPR'26__: The IEEE/CVF Conference on Computer Vision and Pattern Recognit
 
 [**SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks**]()   
 Qinhong Jiang, Yan Long, Youqian Zhang, Chen Yan, Xiaoyu Ji, Xiapu Luo, Kevin Fu, Jiannong Cao, Wenyuan Xu.   
-In *__SEC'26__: USENIX Security Symposium, 2026* ([PDF](/files/articles/26SEC-SoK-IEMI.pdf))   
+In *__SEC'26__: USENIX Security Symposium, 2026* ([PDF](/files/articles/26SEC-SoK-IEMI.pdf), to appear)   
 <!-- Corresponding author -->
 
 [**PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing**](https://www.ndss-symposium.org/ndss-paper/phyfuzz-detecting-sensor-vulnerabilities-with-physical-signal-fuzzing/)   
@@ -84,7 +84,7 @@ In *__TOSN__: ACM Transactions on Sensor Networks, 20:6, 1-26, 2024*
 
 [**具身智能安全及其治理**](https://lib.cqvip.com/Qikan/Article/Detail?id=7200036317)   
 Wenyuan Xu, Xiaoyu Ji, Chen Yan, Yanjiao Chen.  
-In *科技纵览 (IEEE Spectrum 中文版), 10, 60-63, 2024*    
+In *__Spectrum__: IEEE Spectrum: Chinese Language Edition (科技纵览), 10, 60-63, 2024*    
 
 [**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**](https://dl.acm.org/doi/10.1145/3658644.3670285)   
 Xinfeng Li, Kai Li, Yifan Zheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
