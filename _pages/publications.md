@@ -29,7 +29,7 @@ In *__SEC'26__: USENIX Security Symposium, 2026* ([PDF](/files/articles/26SEC-So
 
 [**PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing**](https://www.ndss-symposium.org/ndss-paper/phyfuzz-detecting-sensor-vulnerabilities-with-physical-signal-fuzzing/)   
 Zhicong Zheng, Jinghui Wu, Shilin Xiao, Yanze Ren, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
-In *__NDSS'26__: The Network and Distributed System Security Symposium, 2026* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2026-f29-paper.pdf)) 
+In *__NDSS'26__: The Network and Distributed System Security Symposium, 2026* ([PDF](/files/articles/26SEC-PhyFuzz.pdf)) 
 <!-- Corresponding author -->
 
 [**SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities**](https://www.ndss-symposium.org/ndss-paper/sok-understanding-the-fundamentals-and-implications-of-sensor-out-of-band-vulnerabilities/)   
