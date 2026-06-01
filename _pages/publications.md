@@ -36,13 +36,13 @@ In *__NDSS'26__: The Network and Distributed System Security Symposium, 2026* ([
 Shilin Xiao, Wenjun Zhu, Yan Jiang, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
 In *__NDSS'26__: The Network and Distributed System Security Symposium, 2026* ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2026-s450-paper.pdf))   
 
-
-## 2025
-
 [**Critical Information Only: A Content Privacy-Preserving Framework for Detecting Audio Deepfakes**](https://ieeexplore.ieee.org/document/11216043)   
 Xinfeng Li, Yifan Zheng, Chen Yan, Kai Li, Chang Zeng, Xiaoyu Ji, Wenyuan Xu.  
 In *__TDSC__: IEEE Transactions on Dependable and Secure Computing, 23:2, 2165-2182, 2026* 
 <!-- Corresponding author -->
+
+
+## 2025
 
 [**具身智能安全治理**](https://cstr.cn/32128.14.CASbulletin.20250218002)   
 Wenyuan Xu, Xiaoyu Ji, Chen Yan, Yushi Cheng.  
