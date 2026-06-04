@@ -17,9 +17,9 @@ In *__Nature__: Nature Reviews Electrical Engineering, 2026*
 Kai Wang, Shilin Xiao, Pengzhan Chen, Xiaoyu Ji, Chen Yan, Ruochen Zhou, Kaixiang Zhang, Wenyuan Xu.   
 In *__IoTJ__: IEEE Internet of Things Journal, 13:11, 23146-23161, 2026* 
 
-[**Physical Adversarial Examples through Camera Power Signal Injection**]()  
+[**CamPI: Physical Adversarial Examples through Camera Power Signal Injection**](https://openaccess.thecvf.com/content/CVPR2026/html/Ren_CamPI_Physical_Adversarial_Examples_through_Camera_Power_Signal_Injection_CVPR_2026_paper.html)  
 Yanze Ren, Mingyuan Lv, Qinhong Jiang, Yan Jiang, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
-In *__CVPR'26__: The IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026* (to appear) 
+In *__CVPR'26__: The IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026* ([PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Ren_CamPI_Physical_Adversarial_Examples_through_Camera_Power_Signal_Injection_CVPR_2026_paper.pdf)) 
 <!-- Corresponding author -->
 
 [**SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks**]()   
