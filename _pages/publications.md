@@ -9,6 +9,10 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 
 ## 2026
 
+[**带外脆弱性 (Out-of-Band Vulnerability)**](https://cccf.hrbeu.edu.cn/article/doi/10.11991/cccf.202603014)   
+Wenyuan Xu, Xiaoyu Ji, Chen Yan.  
+In *__CCCF__: 计算 (Computing Magazine of the CCF), 2:3, 92-96, 2026* ([PDF](/files/articles/26CCCF-out-of-band.pdf))
+
 [**Cybersecurity vulnerabilities in IoT devices**](https://www.nature.com/articles/s44287-026-00296-5)    
 Chen Yan, Xiaoyu Ji, Qinhong Jiang, Kai Wang, Xintong Wang, Wenjun Zhu, Shilin Xiao, Xinfeng Li, Wenyuan Xu.   
 In *__Nature__: Nature Reviews Electrical Engineering, 2026*
@@ -44,7 +48,7 @@ In *__TDSC__: IEEE Transactions on Dependable and Secure Computing, 23:2, 2165-2
 
 ## 2025
 
-[**具身智能安全治理**](https://cstr.cn/32128.14.CASbulletin.20250218002)   
+[**具身智能安全治理 (Embodied Artificial Intelligence Security and Governance)**](https://cstr.cn/32128.14.CASbulletin.20250218002)   
 Wenyuan Xu, Xiaoyu Ji, Chen Yan, Yushi Cheng.  
 In *__BCAS__: 中国科学院院刊 (Bulletin of Chinese Academy of Sciences), 40:3, 429-439, 2025* ([PDF](/files/articles/25BCAS.pdf))   
 
@@ -84,7 +88,7 @@ In *__TOSN__: ACM Transactions on Sensor Networks, 20:6, 1-26, 2024*
 
 [**具身智能安全及其治理**](https://lib.cqvip.com/Qikan/Article/Detail?id=7200036317)   
 Wenyuan Xu, Xiaoyu Ji, Chen Yan, Yanjiao Chen.  
-In *__Spectrum__: IEEE Spectrum: Chinese Language Edition (科技纵览), 10, 60-63, 2024*    
+In *__Spectrum__: 科技纵览 (IEEE Spectrum: Chinese Language Edition), 10, 60-63, 2024*    
 
 [**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**](https://dl.acm.org/doi/10.1145/3658644.3670285)   
 Xinfeng Li, Kai Li, Yifan Zheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu.  
