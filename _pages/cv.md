@@ -22,7 +22,7 @@ My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) 
 
 - **Industrial**
   - **Information Security Recognition** @ Tesla Motors 2016
-  - **1st Prize Winner** @ Syscan360 Car Hacking Contest 2016, HackPwn 2015
+  - **1st Prize Winner** @ Syscan360 Car Hacking Contest 2016 & HackPwn 2015
 
 ## Academic Services
 
@@ -30,10 +30,11 @@ My curriculum vitae is available in [English](/files/cv/CV_ChenYan_2022_en.pdf) 
   - [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24) Vice Co-Chair
 
 - **Program Committee** 
-  - USENIX Security [2024](https://www.usenix.org/conference/usenixsecurity24), [2025](https://www.usenix.org/conference/usenixsecurity25)
+  - USENIX Security [2024](https://www.usenix.org/conference/usenixsecurity24), [2025](https://www.usenix.org/conference/usenixsecurity25), [2027](https://www.usenix.org/conference/usenixsecurity27)
   - ACM CCS [2021](https://www.sigsac.org/ccs/CCS2021/), [2023](https://www.sigsac.org/ccs/CCS2023/)
-  - Springer ACNS [2025](https://acns2025.fordaysec.de/)
+  - ACM MM [2026](https://2026.acmmm.org/)
   - ACM SenSys [2022](http://sensys.acm.org/2022/)
+  - Springer ACNS [2025](https://acns2025.fordaysec.de/)
   - IEEE MSN [2023](https://ieee-msn.org/2023/index.php)
 
 - **Guest Editor**

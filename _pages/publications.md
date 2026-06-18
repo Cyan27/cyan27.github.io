@@ -9,11 +9,15 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 
 ## 2026
 
+[**GhostTac: Manipulating Tactile Sensors without Physical Contact**]()   
+Kun Wang, Xuancun Lu, Ruochen Zhou, Kai Wang, Tongjun Ye, Yihao Shao, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
+In *__CCS'26__: ACM Conference on Computer and Communications Security, 2026* (to appear)  
+
 [**带外脆弱性 (Out-of-Band Vulnerability)**](https://cccf.hrbeu.edu.cn/article/doi/10.11991/cccf.202603014)   
 Wenyuan Xu, Xiaoyu Ji, Chen Yan.  
 In *__CCCF__: 计算 (Computing Magazine of the CCF), 2:3, 92-96, 2026* ([PDF](/files/articles/26CCCF-out-of-band.pdf))
 
-[**Cybersecurity vulnerabilities in IoT devices**](https://www.nature.com/articles/s44287-026-00296-5)    
+[**Cybersecurity Vulnerabilities in IoT Devices**](https://www.nature.com/articles/s44287-026-00296-5)    
 Chen Yan, Xiaoyu Ji, Qinhong Jiang, Kai Wang, Xintong Wang, Wenjun Zhu, Shilin Xiao, Xinfeng Li, Wenyuan Xu.   
 In *__Nature__: Nature Reviews Electrical Engineering, 2026*
 
@@ -26,7 +30,7 @@ Yanze Ren, Mingyuan Lv, Qinhong Jiang, Yan Jiang, Chen Yan, Xiaoyu Ji, Wenyuan X
 In *__CVPR'26__: The IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026* ([PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Ren_CamPI_Physical_Adversarial_Examples_through_Camera_Power_Signal_Injection_CVPR_2026_paper.pdf)) 
 <!-- Corresponding author -->
 
-[**SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks**]()   
+[**SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks**](https://www.usenix.org/conference/usenixsecurity26/presentation/jiang-qinhong)   
 Qinhong Jiang, Yan Long, Youqian Zhang, Chen Yan, Xiaoyu Ji, Xiapu Luo, Kevin Fu, Jiannong Cao, Wenyuan Xu.   
 In *__SEC'26__: USENIX Security Symposium, 2026* ([PDF](/files/articles/26SEC-SoK-IEMI.pdf), to appear)   
 <!-- Corresponding author -->
