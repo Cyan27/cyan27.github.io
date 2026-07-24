@@ -9,6 +9,11 @@ My articles are also available on my [Google Scholar profile](https://scholar.go
 
 ## 2026
 
+[**Invisible Smoke: Analyzing and Enhancing the Security of Smoke Detectors Under Intentional Electromagnetic Interference**](https://www.mdpi.com/1424-8220/26/15/4678)   
+Sheng Liu, Kai Liu, Chen Yan, Kaikai Pan, Xiaoyu Ji, Wenyuan Xu.   
+In *__Sensors__: Sensors Journal, 26:15, 1-35, 2026* ([PDF](/files/articles/26Sensors-smoke.pdf))   
+<!-- Corresponding author -->
+
 [**GhostTac: Manipulating Tactile Sensors without Physical Contact**]()   
 Kun Wang, Xuancun Lu, Ruochen Zhou, Kai Wang, Tongjun Ye, Yihao Shao, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
 In *__CCS'26__: ACM Conference on Computer and Communications Security, 2026* (to appear)  
