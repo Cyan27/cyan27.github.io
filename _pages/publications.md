@@ -7,12 +7,19 @@ author_profile: true
 
 My articles are also available on my [Google Scholar profile](https://scholar.google.com/citations?user=qhaLpw8AAAAJ&hl=en&oi=sra).
 
+
+## 2027
+
+[**SenTrojan: Revealing Analog Hardware Trojan Attacks on Sensors**]()   
+Kun Wang, Ruochen Zhou, Wenjun Zhu, Shilin Xiao, Kai Wang, Tongjun Ye, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
+In *__NDSS'27__: The Network and Distributed System Security Symposium, 2027* (to appear)  
+
+
 ## 2026
 
-[**Invisible Smoke: Analyzing and Enhancing the Security of Smoke Detectors Under Intentional Electromagnetic Interference**](https://www.mdpi.com/1424-8220/26/15/4678)   
-Sheng Liu, Kai Liu, Chen Yan, Kaikai Pan, Xiaoyu Ji, Wenyuan Xu.   
-In *__Sensors__: Sensors Journal, 26:15, 1-35, 2026* ([PDF](/files/articles/26Sensors-smoke.pdf))   
-<!-- Corresponding author -->
+[**Cybersecurity Vulnerabilities in IoT Devices**](https://www.nature.com/articles/s44287-026-00296-5)    
+Chen Yan, Xiaoyu Ji, Qinhong Jiang, Kai Wang, Xintong Wang, Wenjun Zhu, Shilin Xiao, Xinfeng Li, Wenyuan Xu.   
+In *__Nature__: Nature Reviews Electrical Engineering, 2026*   
 
 [**GhostTac: Manipulating Tactile Sensors without Physical Contact**]()   
 Kun Wang, Xuancun Lu, Ruochen Zhou, Kai Wang, Tongjun Ye, Yihao Shao, Chen Yan, Xiaoyu Ji, Wenyuan Xu.   
@@ -22,9 +29,10 @@ In *__CCS'26__: ACM Conference on Computer and Communications Security, 2026* (t
 Wenyuan Xu, Xiaoyu Ji, Chen Yan.  
 In *__CCCF__: 计算 (Computing Magazine of the CCF), 2:3, 92-96, 2026* ([PDF](/files/articles/26CCCF-out-of-band.pdf))
 
-[**Cybersecurity Vulnerabilities in IoT Devices**](https://www.nature.com/articles/s44287-026-00296-5)    
-Chen Yan, Xiaoyu Ji, Qinhong Jiang, Kai Wang, Xintong Wang, Wenjun Zhu, Shilin Xiao, Xinfeng Li, Wenyuan Xu.   
-In *__Nature__: Nature Reviews Electrical Engineering, 2026*
+[**Invisible Smoke: Analyzing and Enhancing the Security of Smoke Detectors Under Intentional Electromagnetic Interference**](https://www.mdpi.com/1424-8220/26/15/4678)   
+Sheng Liu, Kai Liu, Chen Yan, Kaikai Pan, Xiaoyu Ji, Wenyuan Xu.   
+In *__Sensors__: Sensors Journal, 26:15, 1-35, 2026* ([PDF](/files/articles/26Sensors-smoke.pdf))   
+<!-- Corresponding author -->
 
 [**VoltSiren: Exploiting Power Supply Vulnerabilities to Control IoT Devices**](https://ieeexplore.ieee.org/document/11411801)    
 Kai Wang, Shilin Xiao, Pengzhan Chen, Xiaoyu Ji, Chen Yan, Ruochen Zhou, Kaixiang Zhang, Wenyuan Xu.   
@@ -37,7 +45,7 @@ In *__CVPR'26__: The IEEE/CVF Conference on Computer Vision and Pattern Recognit
 
 [**SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks**](https://www.usenix.org/conference/usenixsecurity26/presentation/jiang-qinhong)   
 Qinhong Jiang, Yan Long, Youqian Zhang, Chen Yan, Xiaoyu Ji, Xiapu Luo, Kevin Fu, Jiannong Cao, Wenyuan Xu.   
-In *__SEC'26__: USENIX Security Symposium, 2026* ([PDF](/files/articles/26SEC-SoK-IEMI.pdf), to appear)   
+In *__SEC'26__: USENIX Security Symposium, 2026* ([PDF](/files/articles/26SEC-SoK-IEMI.pdf))   
 <!-- Corresponding author -->
 
 [**PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing**](https://www.ndss-symposium.org/ndss-paper/phyfuzz-detecting-sensor-vulnerabilities-with-physical-signal-fuzzing/)   
